@@ -1,0 +1,45 @@
+<html>
+
+<head>
+<script type="text/javascript">
+var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css";
+</script>
+<link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+<script type="text/javascript" src="http://cdn.powerreviews.com/repos/47420/pr/pwr/engine/js/full.js"></script>
+<!--<script type="text/javascript" src="static/ulta/pwr/engine/js/full.js"></script>--><!--Enable to test client issues-->
+
+<link rel="stylesheet" type="text/css" href="static/css/styles.css">
+<title>
+	Dan's Dev Site
+</title>
+<div class="header">
+<h1>Dan's Dev Site</h1>
+</div>
+</head>
+
+
+<body>
+<div id="container">
+
+{% for item in range(0,rl) %}
+<div class="products">
+	<div class="basic_info">
+		<a href="{{ url_for('product', pageid=page_id[item]) }}"><h3>{{ name[item] }}</h3></a>
+		
+		<img src="{{ image_url[item] }}" width="100px" height="100px"/><br>
+		
+		<div class="pr_snippet_category">
+			<script type="text/javascript">
+			var pr_snippet_min_reviews=0;
+			var pageid = '{{ page_id[item] }}'
+			//var pr_zip_location="static/ulta"; //Enable to test client issues
+			POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
+			</script>
+		</div>				
+	</div>
+</div>
+{% endfor %}
+</div>
+</body>
+
+</html>

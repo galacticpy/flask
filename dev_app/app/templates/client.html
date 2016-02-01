@@ -11,11 +11,11 @@
 	var pr_locale= "en_US";
 	var pr_snippet_min_reviews=1;
 	var pageid = "{{ pageid }}";
-	var pr_zip_location="//media.petsathome.com/wcsstore/pah-as01/";
+	var pr_zip_location="{{ location }}";
 	POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
 	</script>
 	<br>
-	<a href="http://localhost:5000/review.html?pr_page_id={{ pageid }}">Write A Review</a>
+	<a href="http://machoman.heroku.com/review.html?pr_page_id={{ pageid }}">Write A Review</a>
 </div>  
 
 

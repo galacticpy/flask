@@ -2,7 +2,6 @@ import os
 import urllib2
 
 def scrape(url):
-    print 'Getting pageid'
     pdp = urllib2.urlopen(url).read()
     variation = {
         "pr_page_id='":"'",
@@ -23,7 +22,6 @@ def scrape(url):
     
                
 def full(url):
-    print 'Getting fulljs'
     pdp = urllib2.urlopen(url).read()
     fulljs = pdp.split('src="', 1)[-1].split('"')[0]
     match = False

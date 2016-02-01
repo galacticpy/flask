@@ -69,10 +69,9 @@ def getclient():
 	if request.method == 'POST':		
 		url = request.form['url']
 		pageid = scrape(url)
-		print pageid
 		fulljs = full(url)
-		print fulljs
-		return render_template('client.html', pageid=pageid, fulljs=fulljs)				
+		location = fulljs.split('pwr/')[0]
+		return render_template('client.html', pageid=pageid, fulljs=fulljs, location=location)				
 	return render_template('getclient.html')
 
 @app.route('/audio')

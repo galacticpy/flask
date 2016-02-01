@@ -15,13 +15,12 @@ def scrape(url):
         'pr_page_id : ':'"',
         "pr_page_id : ":"'"
         }
+
+    for var in variation:               
+        pageid = pdp.split(var, 1)[-1].split(variation[var])[0]
+        if len(pageid) < 12:
+            return pageid
     
-    def getid():
-        for var in variation:               
-            pageid = pdp.split(var, 1)[-1].split(variation[var])[0]
-            if len(pageid) < 12:
-                return pageid
-    getid()
                
 def full(url):
     print 'Getting fulljs'

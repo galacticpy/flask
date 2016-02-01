@@ -3,6 +3,8 @@ from werkzeug import secure_filename
 from app import app
 import dataparse
 import feed_check
+from siteRip import scrape, full
+
 import os
 import sys
 import csv
@@ -61,9 +63,17 @@ def product(pageid):
 def war():
     return render_template('review.html')
 
-@app.route('/client')
-def client():
-    return render_template('client.html')
+
+@app.route('/getclient', methods=['GET', 'POST'])
+def getclient():
+	if request.method == 'POST':		
+		url = request.form['url']
+		pageid = scrape(url)
+		print pageid
+		fulljs = full(url)
+		print fulljs
+		return render_template('client.html', pageid=pageid, fulljs=fulljs)				
+	return render_template('getclient.html')
 
 @app.route('/audio')
 def audio():

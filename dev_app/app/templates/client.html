@@ -1,27 +1,25 @@
 <html>
 <head>
-<title>Hammacher Display</title>
+<title>Client Page</title>
 </head>
 <body>
 
-
-
-
-<script type="text/javascript" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/js/full.js"></script>
+<script type="text/javascript" src={{ fulljs }}></script>
 
 <div class="pr_snippet_category">
 	<script type="text/javascript">
+	var pr_locale= "en_US";
 	var pr_snippet_min_reviews=1;
-	var pageid = '82477'
-	/*var pr_zip_location="http://www.myron.com/static/power-reviews/";*/
+	var pageid = "{{ pageid }}";
+	var pr_zip_location="//media.petsathome.com/wcsstore/pah-as01/";
 	POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
 	</script>
 	<br>
-	<a href="http://localhost:5000/review.html?pr_page_id=82477">Write A Review</a>
+	<a href="http://localhost:5000/review.html?pr_page_id={{ pageid }}">Write A Review</a>
 </div>  
 
 
-<script type="text/javascript">POWERREVIEWS.display.engine (document,{ pr_page_id : '82477'  });</script>
+<script type="text/javascript">POWERREVIEWS.display.engine (document,{ pr_page_id : "{{ pageid }}"  });</script>
   
   
     

@@ -1,0 +1,1 @@
+POWERREVIEWS.common.gResult['content/06/65/V10007P-en_US-1-reviews.js'] = [{r:{id:34074722,si:1,v:0,t:0,r:3,h:"test2013",n:"test2013",l:"en_US",w:"ng",b:{n:"Bottom Line",k:"Yes"},o:"w",d:"4\/30\/2013",db:"2013-04-30T03:17:55",p:"liked the item.",g:[{n:"Was this a gift?",k:"wasthisagift",v:["Yes"]}]}}];

@@ -1,10 +1,12 @@
 import os
 import urllib2
-url = 'http://localhost:5000/super-wedge.html'
-pdp = urllib2.urlopen(url).read()
 
-def scrape(pdp):
+def scrape(url):
+    print 'Getting pageid'
+    pdp = urllib2.urlopen(url).read()
     variation = {
+        "pr_page_id='":"'",
+        'pr_page_id="':'"',
         'pr_page_id=':'"',
         "pr_page_id : '":"'",
         'pr_page_id : "':'"',
@@ -18,12 +20,12 @@ def scrape(pdp):
         for var in variation:               
             pageid = pdp.split(var, 1)[-1].split(variation[var])[0]
             if len(pageid) < 12:
-                print pageid
                 return pageid
     getid()
                
-
-def full(pdp):
+def full(url):
+    print 'Getting fulljs'
+    pdp = urllib2.urlopen(url).read()
     fulljs = pdp.split('src="', 1)[-1].split('"')[0]
     match = False
     while match == False:
@@ -31,12 +33,8 @@ def full(pdp):
             nofull = fulljs
             fulljs = pdp.split(nofull, 1)[-1]
             fulljs = fulljs.split('src="', 1)[-1].split('"')[0]
-            print nofull
         else:
             match = True
     if len(fulljs) < 100:
-        print fulljs
         return fulljs
-      
-scrape(pdp)
-full(pdp)
+

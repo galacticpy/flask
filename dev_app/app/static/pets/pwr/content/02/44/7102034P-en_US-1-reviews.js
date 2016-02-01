@@ -1,0 +1,1 @@
+POWERREVIEWS.common.gResult['content/02/44/7102034P-en_US-1-reviews.js'] = [{r:{id:60046644,si:1,v:0,t:0,r:3,h:"Test review on Barking heads 2",n:"Dee",l:"en_US",w:"Stockport",b:{n:"Bottom Line",k:"Yes"},o:"w",c:"v",d:"3\/10\/2015",db:"2015-03-10T05:01:53",p:"Its was ok - great packaging. Dog loved the kibbles",g:[{n:"Was this a gift?",k:"wasthisagift",v:["No"]}]}}];

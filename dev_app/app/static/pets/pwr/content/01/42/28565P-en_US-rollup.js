@@ -1,0 +1,1 @@
+POWERREVIEWS.common.gResult['content/01/42/28565P-en_US-rollup.js'] = {rollup:{r:null,br:null,i:null,d:5,a:5,n:1,w:"2013-06-21",o:"2013-06-21",v:false,p:false,g:null,ar:null}};

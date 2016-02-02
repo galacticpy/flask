@@ -4,11 +4,28 @@
 var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css";
 </script>
 <link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+
 <script type="text/javascript" async="aysnc" defer="defer" src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
 <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="http://cdn.powerreviews.com/repos/47420/pr/pwr/engine/js/full.js"></script>
 <!--<script type="text/javascript" src="static/ulta/pwr/engine/js/full.js"></script><!--Enable to test client issues-->
 </head>
+
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>
 
 {% for item in range(0,rl) %}
 	{% if pageid == page_id[item] %}

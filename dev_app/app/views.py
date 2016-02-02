@@ -4,6 +4,7 @@ from app import app
 import dataparse
 import feed_check
 from siteRip import scrape, full
+import urllib2
 
 import os
 import sys
@@ -66,17 +67,30 @@ def war():
 
 @app.route('/getclient', methods=['GET', 'POST'])
 def getclient():
-	if request.method == 'POST':		
+	if request.method == 'POST':
+		global url
 		url = request.form['url']
 		pageid = scrape(url)
 		fulljs = full(url)
-		location = fulljs.split('pwr/')[0]
+		try:
+			location = fulljs.split('pwr/')[0]
+		except:
+			location = ''
 		return render_template('client.html', pageid=pageid, fulljs=fulljs, location=location)				
 	return render_template('getclient.html')
 
-@app.route('/audio')
-def audio():
-    return render_template('audio.html')
+@app.route('/clientsite', methods=['GET', 'POST'])
+def clientsite():
+	if request.method == 'POST':
+		client = request.form['update-html']
+		return render_template('clientsite.html', client=client)
+	else:
+		try:
+			client = urllib2.urlopen(url).read()
+			client = "".join([ch for ch in client if ord(ch)<= 128])
+			return render_template('clientsite.html', client=client)		
+		except:
+			return render_template('getclient.html')
 
 
 @app.route('/datafile.txt')

@@ -12,13 +12,28 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css
 <title>
 	Dan's Dev Site
 </title>
-<div class="header">
-<h1>Dan's Dev Site</h1>
-</div>
+
 </head>
 
 
 <body>
+	
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>	
+	
 <div id="container">
 
 {% for item in range(0,rl) %}

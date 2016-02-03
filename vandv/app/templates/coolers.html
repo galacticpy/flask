@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+{% block body %}
+<ol class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li><a href="#">Commercial</a></li>
+    <li class="active">Coolers</li>
+</ol>
+
+<h4><center>Click on a Coolers thumbnail below to zoom in</center></h4>
+
+<ul class="list-inline gallery">
+		<li><img class="thumbnail zoom" src="static/vv_coolers.jpg" width="100px" height="125px"></li>
+		<li><img class="thumbnail zoom" src="static/vv_coolers2.jpg" width="100px" height="125px"></li>
+		<li><img class="thumbnail zoom" src="static/vv_coolers3.jpg" width="100px" height="125px"></li>
+		<li><img class="thumbnail zoom" src="static/vv_coolers4.jpg" width="100px" height="125px"></li>
+</ul>
+{% endblock %}

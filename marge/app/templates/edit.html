@@ -1,0 +1,41 @@
+{% extends "index.html" %}
+{% block body %}
+
+
+<h1>About Us</h1>
+{% for data in datas %}
+ {% if data.active == 1  %}
+<p>
+{{ data.content|safe }}
+</p>
+{% endif %}
+{% endfor %}
+</br>
+
+<button class="btn btn-default" id="edit" style="display:block">Edit</button>
+
+<form action="{{ url_for('edit') }}" method=post>
+<div id="form-group" style="display:none;padding-bottom:10px">
+  <label for="edit">HTML</label>
+    {% for data in datas %}
+        {% if data.active == 1  %}
+            <textarea class="form-control" rows="10" name="update-html">{{ data.content }}</textarea>
+        {% endif %}
+    {% endfor %}
+</div>
+<button id="save" class="btn btn-success" type="submit" style="display:none" value=1>Save Changes</button>
+
+</form>
+
+<button class="btn btn-danger" id="cancel" style="display:none" value=0>Cancel</button>
+<script>
+$("button").click(function(){
+    $("#form-group").toggle();
+    $("#save").toggle();
+    $("#edit").toggle();
+    $("#cancel").toggle();
+});
+</script>
+
+
+{% endblock %}

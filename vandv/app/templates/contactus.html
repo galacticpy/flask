@@ -1,0 +1,44 @@
+{% extends "index.html" %}
+{% block body %}
+<ol class="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li class="active">Contact Us</li>
+</ol>
+        <div class="row">
+            <div class="col-md-8" style="padding-left:25px">
+
+								<form action="{{ url_for('received') }}" method=post class="form-inline">
+								<dl>
+
+									<dt><h4>Whether you're looking for more information on our company, or you have a specific project in mind, contact us using the information below.</h4>
+									<dt><strong>Phone:</strong>
+									773.843.1000
+									<dt><strong>Fax:</strong>
+									773.843.1914
+									<dt><strong>Email:</strong>
+									<a href="nick@vandvconstruction.com">nick@vandvconstruction.com</a>
+									<dt><strong>Address:</strong>
+									<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=3838+South+Wallace+Street,+Chicago,+IL&aq=0&sll=41.785863,-88.147289&sspn=0.321018,0.727158&ie=UTF8&hq=&hnear=3838+S+Wallace+St,+Chicago,+Illinois+60609&z=16">3838 South Wallace Street, Chicago, IL</a>
+									<dt><strong>Hours:</strong>
+									Monday-Friday 7am-6pm<br>
+									<dt><h4>Contact our office for appointments off hours</h4><br>
+								<div class="comment_form">
+
+								<dt>Your Email:
+								<input class="form-control" type="text" name="email">
+								<dt>Your Name:
+								<input class="form-control" type="text" name="name">
+								<dt>Comments:
+								<div class="form-group" style="padding-bottom:20px">
+										
+										<textarea class="form-control" rows="5" name=comments></textarea>
+								</div>
+								<dd><button class="btn btn-default" type="submit" name="submitbtn" value="Submit">Submit</button>
+								</div>
+									</form>
+			</div>
+            <div class="col-md-4">
+				<img src="static/vv_contact.jpg">
+			</div>
+		</div>
+{% endblock %}

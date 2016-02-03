@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+{% block body %}
+<ol class="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li class="active">Demo</li>
+</ol>
+
+<h4><center>Click on a Demo thumbnail below to zoom in</center></h4>
+
+<ul class="list-inline gallery">
+		<li><img class="thumbnail zoom" src="static/vv_demo.jpg" width="100px" height="125px"></li>
+		<li><img class="thumbnail zoom" src="static/vv_demo2.jpg" width="100px" height="125px"></li>
+		<li><img class="thumbnail zoom" src="static/vv_demo3.jpg" width="100px" height="125px"></li>
+</ul>
+{% endblock %}

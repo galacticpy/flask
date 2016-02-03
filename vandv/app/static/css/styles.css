@@ -1,0 +1,42 @@
+/**gallery margins**/
+ul.gallery{
+  margin-left: 3vw; 
+  margin-right:3vw;
+  margin-top: 50px;
+  text-align:center;
+}
+
+.zoom {  
+  -webkit-transition: all 0.35s  ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  transition: all 0.35s ease-in-out; 
+  cursor: -webkit-zoom-in;  
+  cursor: -moz-zoom-in;  
+  cursor: zoom-in;
+} 
+
+.zoom:hover,
+.zoom:active, 
+.zoom:focus {  
+  /**adjust scale to desired size
+  add browser prefixes**/
+  -ms-transform: scale(3);
+  -moz-transform: scale(3);
+  -webkit-transform: scale(3);
+  -o-transform: scale(3);
+  transform: scale(3);
+  position:relative;  
+  z-index:100;
+}
+
+/**To keep upscaled images visible on mobile, 
+increase left & right margins**/
+@media only screen and (max-width: 768px) {
+  ul.gallery {
+    margin-left: 15vw; 
+    margin-right: 15vw;}
+
+/**TIP: To provide touch screen users an easy escape, 
+give your gallery's parent container a cursor: pointer.**/ 
+
+.DivName {cursor: pointer}

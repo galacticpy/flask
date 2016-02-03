@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html> 
+	<head> 
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <link rel= "stylesheet" type= "text/css" href="static/css/styles.css">
+        <!-- Use IE7 mode --> 
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/> 
+			
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+	
+        <title>V&V Construction</title> 
+	</head> 
+	<body>
+        <div class="container">
+		<a href="/">
+            <img src="static/vvlogo.bmp" border="0" width="100%">
+        </a>
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container-fluid">
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="/">Home</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Commercial
+                            <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="coolers">Coolers & Freezers</a></li> 
+                                <li><a href="doors">Doors</a></li> 
+                                <li><a href="equipment">Equipment</a></li>  
+                            </ul>
+                        </li>  
+                        <li><a href="demo">Demolition</a></li> 
+                        <li><a href="residential">Residential</a></li>
+                        <li><a href="facades">Facades</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="clients">Our Clients</a></li>   
+                        <li><a href="contactus">Contact Us</a></li> 
+                    </ul> 
+                </div> 
+            </div>
+        </nav>
+<div class="container">
+{% block body %}
+{% endblock %}
+</div>
+<div class="footer navbar-static-bottom">
+        <div class="row">
+            <div class="col-md-6" style="padding-left:25px; padding-bottom:25px">
+                Please see <a href="clients">Our Clients</a> for a sample of some of our satisfied customers
+            </div> 
+        </div>
+			<div class="row">
+                <div class="col-md-6" style="padding-left:25px">
+					<a href="mailto:nick@vandvconstruction.com"><img src="static/vvmail.jpg"> </a>
+				</div>
+                <div class="col-md-6" style="padding-right:25px">
+					<p style="float:right">V&V Corporation. All rights reserved.</p>
+				</div> 
+			</div>					
+		</div>
+</div>
+	</body> 
+</html> 	

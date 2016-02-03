@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+<form action="{{ url_for('show_requests') }}" method=post>
+
+<div class="accptd" style="display:none">
+<h1>Accepted Shift</h1>
+</div>
+{% for request in requests %}
+{% if request.user_id != user_id and request.req_accpt == 1 %}
+<script>
+$('div.accptd').show();
+</script>
+
+<div class="accepted">
+  <h4>Date: {{ request.req_date }}</h4>
+  <h4>Start Time: {{ request.req_time }}</h4>
+  <h4>End Time: {{ request.end_time }}</h4>
+  <input type=hidden name=cancelled value=1>
+  <button class="btn btn-danger" type=submit name=cancel value={{ request.req_id }}>Cancel</button>
+</div>
+
+{% endif %}
+{% if request.user_id == user_id and request.req_accpt == 1 %}
+<script>
+$('div.accptd').show();
+</script>
+
+<div class="accepted">
+  <h4>Date: {{ request.req_date }}</h4>
+  <h4>Start Time: {{ request.req_time }}</h4>
+  <h4>End Time: {{ request.end_time }}</h4>
+  <input type=hidden name=cancelled value=1>
+  <button class="btn btn-danger" disabled type=submit name=cancel value={{ request.req_id }}>Cancel</button>
+</div>
+{% endif %}
+{% endfor %}
+</form>
+<form action="{{ url_for('brigade') }}" method=post>
+
+<div class='rqstd' style="display:none">
+<h1>Brigade Requests</h1>
+</div>
+
+{% for request in requests %}
+{% if request.req_sent == 1 and request.req_accpt != 1 and request.user_id == user_id %}
+<script>
+$('div.rqstd').show();
+</script>
+<div class="requests" style="display:block">
+  <h4>Date: {{ request.req_date }}</h4>
+  <h4>Start Time: {{ request.req_time }}</h4>
+  <h4>End Time: {{ request.end_time }}</h4>
+	  <button class="btn btn-danger" type=submit name="can_button" value={{ request.req_id }} >Cancel</button>
+</div>
+{% endif %}
+{% endfor %}
+</form>
+
+{% endblock %}
+

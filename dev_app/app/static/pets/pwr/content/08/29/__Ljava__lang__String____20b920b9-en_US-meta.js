@@ -1,0 +1,1 @@
+POWERREVIEWS.common.gResult['content/08/29/__Ljava__lang__String____20b920b9-en_US-meta.js'] = {metadata:[{rid:33933258,date:20130426,rating:4,helpfulScore:0,oid:40327876,batch:1,images:0}]};

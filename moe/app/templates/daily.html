@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+{% block content %}
+  <h2>Daily Events</h2>
+  <ul style="list-style:none">
+    {% for data in reader %}
+    <li><b>{{ data['title'] }}</b> - {{ data['date'] }}</li>
+    <li>{{ data['data']|safe }}</li>
+    {% endfor %}
+   </ul>
+{% endblock %}

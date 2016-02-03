@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block body %}
+  <h2>Register</h2>
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+  <form action="{{ url_for('register') }}" method=post>
+	  Choose:<br>
+	  <input type="radio" name="position" value="manager" checked onclick="document.getElementById('posdiv').style.display='none'"> Manager
+	  <input type="radio" name="position" value="employee" onclick="document.getElementById('posdiv').style.display='block'"> Employee
+
+    <dl>
+	  <div class="radio" id="posdiv" style="display:none">
+	  <dt>Establishment ID:
+	  <dd><input type=text name=est_id>
+	  </div>
+      <dt>First Name:
+      <dd><input type=text name=first_name>
+      <dt>Last Name:
+      <dd><input type=text name=last_name>
+      <dt>Email:
+      <dd><input type=email name=email_addr>
+      <dt>Username:
+      <dd><input type=text name=username>
+      <dt>Password:
+      <dd><input type=password name=password>
+      <dt>Confirm Password:
+      <dd><input type=password name=password_confirm>
+      <dd><input type=submit value=Register>
+    </dl>
+  </form>
+
+{% endblock %}
+

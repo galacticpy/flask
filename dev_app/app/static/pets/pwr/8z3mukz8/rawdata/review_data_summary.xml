@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>P413</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-03-23</newestreviewdate>
+<oldestreviewdate>2015-03-23</oldestreviewdate>
+<averageoverallrating>3</averageoverallrating>
+<average_rating_decimal>3</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Test uses</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Test con</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Test pro</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>V10030P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-05-23</newestreviewdate>
+<oldestreviewdate>2013-05-23</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>7102051P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>1103173P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-27</newestreviewdate>
+<oldestreviewdate>2013-04-27</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>31681P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2014-01-10</newestreviewdate>
+<oldestreviewdate>2014-01-10</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">For my dog</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Dog loves it</tag>
+<tag isuseradded="true" count="1">Well priced</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>28565P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-06-21</newestreviewdate>
+<oldestreviewdate>2013-06-21</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">C1</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">B1</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">A1</tag>
+</taggroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>P216</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>1400039P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-11-02</newestreviewdate>
+<oldestreviewdate>2013-11-02</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>P664</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>P565</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-10-19</newestreviewdate>
+<oldestreviewdate>2013-10-19</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Sleeping</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Bit expensive</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="false" count="1">Durable</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>7102034P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-03-10</newestreviewdate>
+<oldestreviewdate>2015-03-10</oldestreviewdate>
+<averageoverallrating>3</averageoverallrating>
+<average_rating_decimal>3</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>V10047P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-05-03</newestreviewdate>
+<oldestreviewdate>2013-05-01</oldestreviewdate>
+<averageoverallrating>2.5</averageoverallrating>
+<average_rating_decimal>2.7</average_rating_decimal>
+<fullreviews>3</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Excellent</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Slow</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Good</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="3">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>35289P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-08-14</newestreviewdate>
+<oldestreviewdate>2013-08-14</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Grooming</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Fades in the wash</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Easy to use</tag>
+<tag isuseradded="true" count="1">Great fit</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>34562P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2014-02-11</newestreviewdate>
+<oldestreviewdate>2014-02-11</oldestreviewdate>
+<averageoverallrating>1</averageoverallrating>
+<average_rating_decimal>1</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Starter tank</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Loud filter</tag>
+<tag isuseradded="true" count="1">Noisy</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Ideal size</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>V10050P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-29</newestreviewdate>
+<oldestreviewdate>2013-04-29</oldestreviewdate>
+<averageoverallrating>3.5</averageoverallrating>
+<average_rating_decimal>3.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="2">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>7102069P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>36075P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>9309-product</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-26</newestreviewdate>
+<oldestreviewdate>2013-04-26</oldestreviewdate>
+<averageoverallrating>1.5</averageoverallrating>
+<average_rating_decimal>1.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Testuser</tag>
+<tag isuseradded="true" count="1">Test user</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Not happy</tag>
+<tag isuseradded="true" count="1">Slow</tag>
+<tag isuseradded="true" count="1">Testcons</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Good</tag>
+<tag isuseradded="true" count="1">Happy</tag>
+<tag isuseradded="true" count="1">Testpros</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>V10024P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-05-01</newestreviewdate>
+<oldestreviewdate>2013-05-01</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="2">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>29585P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-08-12</newestreviewdate>
+<oldestreviewdate>2013-07-15</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Water bowl</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">T</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Looks nice</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>true</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>7102556P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-28</newestreviewdate>
+<oldestreviewdate>2015-10-28</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>V10007P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-30</newestreviewdate>
+<oldestreviewdate>2013-04-30</oldestreviewdate>
+<averageoverallrating>3</averageoverallrating>
+<average_rating_decimal>3</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>33343P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Feeding the dog</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Abcde</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Abcde</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>27399P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-06-23</newestreviewdate>
+<oldestreviewdate>2013-06-23</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">For pets</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Great product</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>32252</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-26</newestreviewdate>
+<oldestreviewdate>2013-04-26</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Testuser</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Testcons</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Testpros</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>1106374-product</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-26</newestreviewdate>
+<oldestreviewdate>2013-04-23</oldestreviewdate>
+<averageoverallrating>3.5</averageoverallrating>
+<average_rating_decimal>3.5</average_rating_decimal>
+<fullreviews>2</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">FRIEND</tag>
+<tag isuseradded="true" count="1">Self</tag>
+<tag isuseradded="true" count="1">Summer</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="2">Slow</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Bright</tag>
+<tag isuseradded="true" count="1">Character</tag>
+<tag isuseradded="true" count="1">Excellent</tag>
+<tag isuseradded="true" count="1">Good</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="2">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>2</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>[Ljava.lang.String;@20b920b9</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-04-26</newestreviewdate>
+<oldestreviewdate>2013-04-26</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">Testuser</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Testcons</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Testpros</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>36305P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2013-10-04</newestreviewdate>
+<oldestreviewdate>2013-10-04</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>24236P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2014-04-03</newestreviewdate>
+<oldestreviewdate>2014-04-03</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>1106373P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2014-01-06</newestreviewdate>
+<oldestreviewdate>2014-01-06</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="bestuses" name="Best Uses">
+<tag isuseradded="true" count="1">When starting out</tag>
+</taggroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">None noted</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Clear</tag>
+<tag isuseradded="true" count="1">Concise</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>36612P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-29</newestreviewdate>
+<oldestreviewdate>2015-10-29</oldestreviewdate>
+<averageoverallrating>4</averageoverallrating>
+<average_rating_decimal>4</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<bottom_line_yes_votes>0</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>7101184P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2015-10-30</newestreviewdate>
+<oldestreviewdate>2015-03-10</oldestreviewdate>
+<averageoverallrating>3.5</averageoverallrating>
+<average_rating_decimal>3.3</average_rating_decimal>
+<fullreviews>4</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Verified Reviewer</confirmstatus>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="cons" name="Cons">
+<tag isuseradded="true" count="1">Terrible</tag>
+</taggroup>
+<taggroup key="pros" name="Pros">
+<tag isuseradded="true" count="1">Cheap</tag>
+</taggroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="3">No</tag>
+<tag isuseradded="false" count="1">Yes</tag>
+</taggroup>
+<bottom_line_yes_votes>3</bottom_line_yes_votes>
+<bottom_line_no_votes>1</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+<product xsi:type="ProductWithReviews" locale="en_US">
+<pageid>35449P</pageid>
+<name/>
+<smallstarimagelocation>pwr/engine/images/stars_small.gif</smallstarimagelocation>
+<largestarimagelocation>pwr/engine/images/stars.gif</largestarimagelocation>
+<newestreviewdate>2014-08-01</newestreviewdate>
+<oldestreviewdate>2014-08-01</oldestreviewdate>
+<averageoverallrating>5</averageoverallrating>
+<average_rating_decimal>5</average_rating_decimal>
+<fullreviews>1</fullreviews>
+<confirmstatusgroup>
+<confirmstatus>Unverified</confirmstatus>
+</confirmstatusgroup>
+<taggroup key="wasthisagift" name="Was this a gift?">
+<tag isuseradded="false" count="1">No</tag>
+</taggroup>
+<bottom_line_yes_votes>1</bottom_line_yes_votes>
+<bottom_line_no_votes>0</bottom_line_no_votes>
+<customerimages>false</customerimages>
+<customervideos>false</customervideos>
+</product>
+
+</products>

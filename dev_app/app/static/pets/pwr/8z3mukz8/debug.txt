@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="robots" content="index,nofollow" />
+<style type="text/css" media="screen">
+.body { font-family: monospace; }
+.heading { font-size: 1em; font-weight: bold; }
+.block { margin-bottom: 10px }
+.key, .value { float: left; }
+.value { margin-left: 10px; }
+</style>
+</head>
+<body>
+<div class="block">
+<div class="heading">General Data</div>
+<div class="key">Merchant: </div>
+<div id="merchant_name" class="value">[Pets at Home DEV]</div><br/>
+<div class="key">Engine Version: </div>
+<div id="engine_version" class="value">[]</div><br/>
+<div class="key">Facebook Like: </div>
+<div id="fblike_enabled" class="value">[false]</div><br/>
+<div class="key">Google Plus: </div>
+<div id="gplus_enabled" class="value">[false]</div><br/>
+<div class="key">Histogram: </div>
+<div id="histo_enabled" class="value">[true]</div><br/>
+<div class="key">Inline SEO Pages: </div>
+<div id="il_seo_pages" class="value">[0]</div><br/>
+<div class="key">Inline SEO Pages Q&amp;A: </div>
+<div id="il_seo_pages_questions" class="value">[0]</div><br/>
+<div class="key">Faceoff Enabled: </div>
+<div id="faceoff_enabled" class="value">[false]</div><br/>
+<div class="key">Profiles Enabled: </div>
+<div id="profiles_enabled" class="value">[false]</div><br/>
+<div class="key">Schema.org Enabled: </div>
+<div id="schema_enabled" class="value">[false]</div><br/>
+<div class="key">Hash Algorithm: </div>
+<div id="hash_algorithm" class="value">[PFHash]</div><br/>
+<div class="key">Date Generated: </div>
+<div id="date_generated" class="value">[Mon. 02/01/16 5:45AM]</div><br/>
+</div>
+<div class="block"><div class="heading">Review Data</div><div class="key">Number of Products with Reviews: </div><div id="number_products" class="value">33</div><br/>
+<div class="key">Locale:[en_US] Number of Batch Review Files: </div><div id="num_reviews_en_US" class="value">33</div><br/>
+<div class="key">Giving Total Number of Review Batches: </div><div id="total_review_batches" class="value">33</div><br/>
+</div><div class="block">
+<div class="heading">SEO Mini Site Data</div>
+</div><div class="block">
+<div class="heading">Search Engine Feed Data</div>
+</div><div class="block">
+<div class="heading">Review Data XML</div>
+<div class="key">Complete Review Data XML: </div><div class="value">[./rawdata/review_data_complete.xml]</div><div>[./rawdata/review_data_complete.xsd]</div><div class="key">Summary Review Data XML: </div><div class="value">[./rawdata/review_data_summary.xml]</div><div>[./rawdata/review_data_summary.xsd]</div></div><div class="block">
+<div class="heading">Page Ids with bucket locations:</div>
+<div id="page_ids">
+<div class="key">PageId: [</div><div class="value page_id">P413 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/00/42/P413-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">V10030P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/00/69/V10030P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">7102051P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/00/84/7102051P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">1103173P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/00/94/1103173P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">31681P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/00/95/31681P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">28565P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/01/42/28565P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">P216 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/01/86/P216-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">1400039P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/16/1400039P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">P664 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/29/P664-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">P565 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/31/P565-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">7102034P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/44/7102034P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">V10047P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/62/V10047P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">35289P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/72/35289P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">34562P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/02/75/34562P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">V10050P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/03/71/V10050P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">7102069P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/04/01/7102069P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">36075P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/04/05/36075P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">9309__product en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/04/60/9309__product-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">V10024P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/05/35/V10024P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">29585P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/05/74/29585P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">7102556P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/05/91/7102556P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">V10007P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/06/65/V10007P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">33343P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/07/00/33343P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">27399P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/07/08/27399P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">32252 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/07/10/32252-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">1106374__product en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/08/19/1106374__product-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">__Ljava__lang__String____20b920b9 en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/08/29/__Ljava__lang__String____20b920b9-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">36305P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/08/32/36305P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">24236P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/08/42/24236P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">1106373P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/08/54/1106373P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">36612P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/09/84/36612P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">7101184P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/09/86/7101184P-en_US-meta.js</div><br/>
+<div class="key">PageId: [</div><div class="value page_id">35449P en_US</div><div class="value">] is located in:</div><div class="value">pwr/content/10/13/35449P-en_US-meta.js</div><br/>
+</div></div></body></html>

@@ -1,0 +1,35 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+</head>
+
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>
+<!--
+{% if error %}<p class=error><strong>ERROR:</strong>{{ error }}</p>{% endif %}
+<h1>Upload Product Feed</h1>
+<form action="" method=post enctype=multipart/form-data>
+    <p><input type=file name=file>
+    <input type=submit name=upld value="Check Feed">
+</form>
+-->
+
+{% for error in errors %}
+<li>{{ error }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>

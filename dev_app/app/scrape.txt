@@ -1,0 +1,1146 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_header"><title>
+	The Best Commuter Cup - Hammacher Schlemmer
+</title><meta id="ctl00_metaDescription" name="DESCRIPTION" content="After comparison tests of commuter cups by the Hammacher Schlemmer Institute, this model proved to be The Best because it is easy to drink from and does not leak, even when inverted. The Best model&#39;s spill-proof lid opens with the touch of a button to allow ease of drinking, and its handleless, slim design fits in a car&#39;s cup holder. Hot water was poured into each model and The Best Commuter Cup allowed the water to decrease in temperature by only 18º F after two hours, unlike lesser models that lost up to 71º F. The Best model kept ice cubes frozen for 36 hours, while other commuter cups allowed ice to melt in six hours. The commuter cup&#39;s superior temperature retention is due to its dual-wall design and vacuum insulation that also prevent heat- or cold- transfer to the exterior. " /><meta id="ctl00_metaKeywords" name="KEYWORDS" content="Best Travel Cup 2012, Smkhe48ag, ZOJIRUSHI AMERICA, Best Travel Cup, travel, cup, container, travel cup, commuter, commuter cup, no leak, spill-proof, handleless, slim, insulated, temperature retention, coffee, tea, coffee mug, coffee thermos, thermos, coffee mug, commute, water bottle, coffee tumbler,
+" />
+            <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+            <script type="text/javascript">
+            var monetateT = new Date().getTime();
+            (function() {
+                var p = document.location.protocol;
+                if (p == "http:" || p == "https:") {
+                    var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") 
+                      + "b.monetate.net/js/1/a-a84cb25a/p/hammacher.com/" + Math.floor((monetateT + 1198682) / 3600000) + "/g";
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+                }
+            })();
+            </script>
+            <!-- End Monetate tag. -->
+            
+<meta id="ctl00_metaRevision" name="APPLICATION_REVISION" content="5.1.1716.1817" />
+     
+   <!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="/css30/ie.css"/ id="ieOverride">
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css30/ie7.css"/ id="ieOverride">
+    <![endif]-->
+    <!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css30/ie8.css"/ id="ieOverride">
+    <![endif]-->
+    <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/1.7_jquery.min.js"></script>
+    <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/1.8_jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/jquery.validate_1.11.min.js"></script>
+   <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/adobe/AC_OETags.js" language="javascript"></script>
+   <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/hammacher.lib.min.js" language="javascript"></script>
+   <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/global.js" ></script>
+   <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/jquery.tools.min_07_23_2012.js"></script>
+   <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/videoLightbox.js" language="javascript"></script>
+    <script type="text/javascript" src="http://www.hammacher.com/scripts30/2015.02.26/BrightcoveExperience.js" language="javascript"></script>
+   
+  
+   <!--[if lte IE 6]>
+	<script type="text/javascript" src="/scripts30/supersleight-min.js"></script>
+	<![endif]-->
+    <!-- standalone page styling (can be removed) -->
+	
+    <!-- css file for jquery library.  class names must remain intact.  classes may exist in 
+         any css file.   -->
+    <link rel="Stylesheet" type="text/css" href="http://www.hammacher.com/css30/2016.01.14/jquery-ui-1.8.10.custom.css" /><link rel="stylesheet" type="text/css" href="http://www.hammacher.com/css30/2016.01.14/cmstools.css" /><link rel="stylesheet" type="text/css" href="http://www.hammacher.com/css30/2016.01.14/main.css" /><link rel="stylesheet" type="text/css" href="http://www.hammacher.com/css30/2016.01.14/print.css" media="print" /><link href="http://www.hammacher.com/css30/2016.01.14/popover.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" />    
+    <!--  ***************  -->
+
+    
+
+            <!-- CELEBROS ANALYTICS TAG -->
+            <script src="http://Hammacher-ftp.celebros.com/widgets/CelebrosToolbox.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                //<![CDATA[
+                CelebrosAnalytics.ShowComments = false;
+                CelebrosAnalytics.dopost = false;
+                CelebrosAnalytics.customerid = 'Hammacher';
+                CelebrosAnalytics.pagereferrer = 'http://www.hammacher.com/Product/Default.aspx?sku=82477';
+                CelebrosAnalytics.qwisersearchloghandle = '';
+                CelebrosAnalytics.websessionid = 'hlcixby0jozk4nuw5wh3wqul';
+                CelebrosAnalytics.productsku = '82477';
+                CelebrosAnalytics.productname = 'The Best Commuter Cup.';
+                CelebrosAnalytics.productprice = '34.95';
+                CelebrosAnalytics.productcategory = 'Kitchen &amp; Entertaining';
+                CelebrosAnalytics.AI_LogProduct();
+                //]]>
+                
+                    </script>
+            <!-- END OF CELEBROS ANALYTICS TAG -->
+            <script language="javascript" type="text/javascript">var inventoryJSON = {"products":[{"sku":"82477","name":"The Best Commuter Cup.","variations":[{"sku":"82477 BLU","edp":44011,"price":3495,"status":"R1","message":"Available for Immediate Shipment.","available":true,"styleOptions":[{"id":25}]},{"sku":"82477 CHM","edp":44012,"price":3495,"status":"","message":"We regret that this item is no longer available.","available":false,"styleOptions":[{"id":519}]},{"sku":"82477 BLK","edp":45668,"price":3495,"status":"R1","message":"Available for Immediate Shipment.","available":true,"styleOptions":[{"id":21}]}]}]}</script></head>
+<body class="catalog_wide">
+    
+    
+    <form name="aspnetForm" method="post" action="82477?sku=82477" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="2" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE4MTAxOTM4NmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFLWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlciRyJGN0bDAxJHAkZ3ckZ3djaGVjawVNY3RsMDAkRm9vdGVyUGxhY2VIb2xkZXIkRm9vdGVyQ29udHJvbCRKb2luRW1haWxU" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXh0Qm94Q29udHJvbCRqb2luRW1haWxTdWJtaXQR7qVNnV5GjyXlW5R3FsDBFia0X7l5pCCBTkU5ovdf9w==" />
+
+
+<script src="/ScriptResource.axd?d=glq7Dh6j3bEB6Owds31iyPRz5X6RrymP2WCeeJw2omLPnAUY64SeGTSy1bYy-PkoAPEaJANzsPBHFTGJj9I0KpMywfdkfMM_JNYkY2vCWkkKg86R44PdygmSWgzjqIakB4X1v4GNKLZU2NdWT8U25z5bJQxIvru5c3322zuHFGA1&amp;t=1c4c0890" type="text/javascript"></script>
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="59zrivlyzPHp2YSg6odnMqzMogHTdU2HjFrP8mZi0Bb6FZFq3TUY258FZlz2UIYsDYRG7K3C04jbDgcZZ810A80Gr6kcR1zUCCcBs6FTACo1" />
+    <div class="container">
+    <div class="header_container">
+    
+
+<script type="text/javascript" src="/scripts30/2015.02.26/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="/scripts30/2015.02.26/Header.js"></script>
+<div class="header_content">
+    <!-- persist logo -->
+    <div class="customer_nav">
+        <h1>
+            <a href="/?promo=header" class="headerLogo"><img src="../Images30/catalog/hammacher-schlemmer.gif" alt="Hammacher Schlemmer - Offering the Best, the Only and the
+                Unexpected Since 1848." /></a></h1>
+        <ul>
+            <li><a href="/Editorial/Contact-Us?promo=header" >Customer Service &nbsp;800-<span style="display:none;">_</span>321-1484</a>|</li>
+            <li><a href="/OrderStatus/Default.aspx?promo=header" title="Track your Order">Order Tracking</a>|</li>
+            <li><a href="/CatalogQuickOrder/?promo=header" title="Quickly place an order with Catalog SKU">Catalog Quick Order</a></li>
+        </ul>        
+        <div id="ctl00_HeaderControl_upd_ShoppingBag">
+	
+                <div class="shopping_bag">
+                    <a href="/shoppingbag/default.aspx" class="shop_icon">Shopping Bag</a>
+                    <a href="/shoppingbag/default.aspx" class="left" style="padding-top:4px;padding-bottom:4px;"><strong>Shopping Bag</strong></a><br />
+                    <span id="ctl00_HeaderControl_lbl_BagContents" class="bag_contents">0 item(s)</span>
+                    
+                </div>
+                <input type="submit" name="ctl00$HeaderControl$btn_updatepanel" value="" id="ctl00_HeaderControl_btn_updatepanel" class="hidden refresh_shop_bag" />
+            
+</div>
+        
+        <div class="bag_quicklook add2shopbagdlg hidden"></div>
+        
+    </div>
+    <!-- /customer_nav -->
+    <div class="pre_nav_container">
+        <ul class="pre_nav_links">
+            <li><a href="/Category/Category-NewArrivals?promo=hs_new_arrivals" title="New Arrivals">New Arrivals</a></li>
+            <li><a href="/Category/OurFavorites?promo=hs_favorites" title="Our Favorites">Our Favorites</a></li>
+            <li><a href="/Category/Gift-Guide?promo=Gift-Guide-TopNav" title="Gift Guide">Gift Guide</a></li>
+            <li><a href="/Category/Tested-Best?promo=hs_tested_best" title="Tested Best">The Best</a></li>
+            <li><a href="/Category/The-Only?promo=hs_the_only" title="Exclusive to Hammacher Schlemmer">The Only</a></li>
+            <li><a href="/Category/The-Unexpected?promo=hs_the_unexpected" title="Unexpected Items of Distinction">The Unexpected</a></li>
+            <li class="pre_nav_last"><a href="/CatalogRequest/Default.aspx?cl=1&el=0&promo=tagging" title="Request Catalog">Request Catalog</a></li>
+        </ul>
+        <div class="search">
+            
+<script language="javascript" type="text/javascript">
+    function cls() {
+        var o = document.getElementById('ctl00_HeaderControl_SearchTextBoxControl_searchTextBox');
+        if (o.value == o.defaultValue) {
+            o.value = "";
+        }
+    }
+</script>
+
+    <script type="text/javascript" src="http://Hammacher-ac.celebros.com/AutoComplete/Scripts/CelebrosAutoCompleteV2.js"></script>
+    <link type="text/css" rel="stylesheet" href="/CSS30/autocomplete.css" />
+
+<div id="ctl00_HeaderControl_SearchTextBoxControl_searchPanel">
+	
+    <div class="search_container">
+        <input name="ctl00$HeaderControl$SearchTextBoxControl$searchTextBox" type="text" value="search  keyword or item #" maxlength="128" id="ctl00_HeaderControl_SearchTextBoxControl_searchTextBox" title="Enter a word, phrase or SKU to search for" autocomplete="off" class="search-txt" onclick="javascript:cls();" />
+    </div>
+    <input type="submit" name="ctl00$HeaderControl$SearchTextBoxControl$btnSearchSubmit" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$HeaderControl$SearchTextBoxControl$btnSearchSubmit&quot;, &quot;&quot;, false, &quot;&quot;, &quot;/Product/Default.aspx?sku=82477&quot;, false, false))" id="ctl00_HeaderControl_SearchTextBoxControl_btnSearchSubmit" class="search-submit cancel" />
+
+</div>
+<div id="ctl00_HeaderControl_SearchTextBoxControl_divCelebrosAutoCompleteJQuery">
+    <script language="javascript" type="text/javascript">
+        CelebrosAutoComplete("Hammacher", "ctl00_HeaderControl_SearchTextBoxControl_searchTextBox", onSelect, "Hammacher-ac.celebros.com", "Hammacher-ac.celebros.com");
+        function onSelect(aParameter) {
+            if ((aParameter["SelectedURL"] != "") && (aParameter["IsAutoComplete"])) {
+                window.location = aParameter["SelectedURL"] + "&cmp=cel&trigger=ac&query=" + aParameter["EnteredQuery"];
+            }
+            else {
+                //check if search term is really a SKU to decide on redirection routine:
+                var query = aParameter["SelectedQuery"];
+                var doRedirect = true;
+                if ($.isNumeric(query) && Math.floor(query) == query && query.length == 5) {
+                    var prodUrl = "http://www.hammacher.com/Product/Default.aspx?sku=Search".replace("Search", query);
+                    if (prodUrl.toLowerCase().indexOf("default.aspx") == -1) {
+                        prodUrl += "?promo=search";
+                    }
+                    else {
+                        prodUrl += "&promo=search";
+                    }
+                    
+                    doRedirect = false;
+                    window.location = prodUrl;
+                }
+
+                if (doRedirect) {
+                    var targetLocation = "http://www.hammacher.com/Search/Default.aspx?query=" + encodeURI(aParameter["SelectedQuery"]); // + "&s=1";
+                    if (aParameter["IsAutoComplete"].toString().toLowerCase() == "true") {
+                        targetLocation += "&Trigger=ac";
+                    }
+                    window.location = targetLocation;
+                }
+            }
+        }
+    </script>
+</div>
+        </div>
+    </div>
+    
+    <!-- /pre_nav -->
+    <div class="main_nav">
+        <ul class="topnav">
+            <li><a href="/Category/Electronics?promo=topnav_elec" class="electronics">Electronics</a>
+                <div class="sub electronics_sub">
+                    <ul>
+                        <li class="e1">
+                            <h2><a href="/Category/Electronics-New-Arrivals?promo=topnav_elec_new" title="New Arrivals">New Arrivals</a></h2>
+                        </li>
+                        <li class="e2">
+                            <h2><a href="/Category/Electronics-Gadgets?promo=topnav_elec_gadgets" title="Gadgets">Gadgets</a></h2>
+                        </li>
+                        <li class="e3">
+                            <h2><a href="/Category/Electronics-Portable-Electronics?promo=topnav_elec_portable_electronics" title="Portable Electronics">Portable Electronics</a></h2>
+                        </li>
+                        <li class="e4">
+                            <h2><a href="/Category/Electronics-iPad-Accessories?promo=topnav_elec_ipad" title="iPad Accessories">iPad Accessories</a></h2>
+                        </li>
+                        <li class="e5">
+                            <h2><a href="/Category/Electronics-iPod-Accessories?promo=topnav_elec_ipod" title="iPhone iPad">iPod &amp; iPhone Accessories</a></h2>
+                        </li>
+                        <li class="e6">
+                            <h2><a href="/Category/Electronics-Clocks?promo=topnav_elec_clocks" title="Clocks">Clocks</a></h2>
+                        </li>
+                        <li class="e7">
+                            <h2><a href="/Category/Electronics-Computer-Accessories?promo=topnav_elec_computer_acessories"  title="Computer Accessories">Computer Accessories</a></h2>
+                        </li>
+                        <li class="e8">
+                            <h2><a href="/Category/Electronics-Auto-Accessories?promo=topnav_elec_auto" title="Automobile Accessories">Auto Accessories</a></h2>
+                        </li>
+                        <li class="e9">
+                            <h2><a href="/Category/Electronics-Audio?promo=topnav_elec_audio" title="Audio">Audio</a></h2>
+                        </li>
+                        <li class="e10">
+                            <h2><a href="/Category/Electronics-TV-Video?promo=topnav_elec_tv_video" title="TV Video">TV &amp; Video</a></h2>
+                        </li>
+                        <li class="e11">
+                            <h2><a href="/Category/Electronics-Cameras-Camcorders?promo=topnav_elec_cameras" title="Cameras">Cameras &amp; Camcorders</a></h2>                        
+                        </li>
+                        <li class="e12">   
+                            <h2><a href="/Category/Electronics-Safety-Security?promo=topnav_elec_safety" title="Safety-Security">Safety &amp; Security</a></h2>  
+                        </li>                       
+                        <li class="e13">   
+                            <h2><a href="/Category/Electronics-Telephone-Accessories?promo=topnav_elec_telephone_accessories"  title="Telephone">Telephone &amp; Accessories</a></h2>  
+                        </li>
+                        <li class="e14">
+                            <h2><a href="/Category/Electronics-Media-Accessories?promo=topnav_elec_media_acessories" title="Media">Media Accessories</a></h2> 
+                        </li>
+                        <li class="e15">
+                            <h2><a href="/Category/Electronics-Media-Conversion?promo=topnav_elec_media_conversion" title="Media Conversion">Media Conversion</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Apparel?promo=top_nav_app" class="apparel">Apparel</a>
+                <div class="sub apparel_sub" style="display: block;">
+                    <ul>
+                        <li class="a1">
+                            <h2><a href="/Category/Apparel-New-Arrivals?promo=topnav_app_new" title="New Arrivals">New Arrivals</a></h2>
+                        </li>
+                        <li class="a2">
+                            <h2><a href="/Category/Apparel-Sandals?promo=topnav_app_sandals" title="Sandals">Sandals</a></h2>
+                        </li>
+                        <li class="a3">
+                            <h2><a href="/Category/Apparel-Shoes?promo=topnav_app_shoes" title="Shoes">Shoes</a></h2>
+                        </li>
+                        <li class="a4">
+                            <h2><a href="/Category/Apparel-Coats-Jackets?promo=topnav_app_coats_jackets" title="Coats Jackets">Coats &amp; Jackets</a></h2>
+                        </li>
+                        <li class="a5">
+                            <h2><a href="/Category/Apparel-Shirts-Sweaters?promo=topnav_app_shirts_sweaters" title="Shirts Sweaters">Shirts &amp; Sweaters</a></h2>
+                        </li>
+                        <li class="a6">
+                            <h2><a href="/Category/Apparel-Hats-Gloves?promo=topnav_app_hats_gloves" title="Hats Gloves">Hats &amp; Gloves</a></h2>
+                        </li>
+                        <li class="a7">
+                            <h2><a href="/Category/Apparel-Wallets?promo=topnav_app_wallets" title="Wallets">Wallets</a></h2>
+                        </li>
+                        <li class="a8">
+                            <h2><a href="/Category/Apparel-Watches?promo=topnav_app_watches" title="Watches">Watches</a></h2>
+                        </li>
+                        <li class="a9">
+                            <h2><a href="/Category/Apparel-Robes-Sleepwear?promo=topnav_app_robes_sleepwear" title="Robes Sleepwear">Robes &amp; Sleepwear</a></h2>
+                        </li>
+                        <li class="a10">
+                            <h2><a href="/Category/Apparel-Eyewear?promo=topnav_app_eyewear" title="Eyewear">Eyewear</a></h2>
+                        </li>
+                        <li class="a11">
+                            <h2><a href="/Category/Apparel-Slippers?promo=topnav_app_slippers" title="Slippers">Slippers</a></h2>
+                        </li>
+                        <li class="a12">
+                            <h2><a href="/Category/Apparel-Accessories?promo=topnav_app_accessories" title="Accessories">Accessories</a></h2>
+                        </li>
+                        <li class="a13">
+                            <h2><a href="/Category/Apparel-Luggage?promo=topnav_app_luggage" title="Luggage">Luggage</a></h2>
+                        </li>
+                        <li class="a14">
+                            <h2><a href="/Category/Apparel-Clothing-Care?promo=topnav_app_clothing_care" title="Clothing Care">Clothing Care</a></h2>
+                        </li>
+                        <li class="a15">
+                            <h2><a href="/Category/Apparel-Umbrellas?promo=topnav_app_umbrellas" title="Umbrellas">Umbrellas</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Home-Living?promo=topnav_home" class="home_care">Home</a>
+                <div class="sub_single homecare_sub">
+                    <ul>
+                        <li class="hl1">
+                            <h2><a href="/Category/Home-Living-New-Arrivals?promo=topnav_home_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="hl2">
+                            <h2><a href="/Category/Home-Living-Vacuums?promo=topnav_home_vacuums">Vacuums</a></h2>
+                        </li>
+                        <li class="hl3">
+                            <h2><a title="" href="/Category/Home-Living-Household-Cleaning?promo=topnav_home_household_cleaning">Household Cleaning</a></h2>
+                        </li>
+                        <li class="hl4">
+                            <h2><a title="" href="/Category/Home-Living-Kitchen-Entertaining?promo=topnav_home_kitchen">Kitchen &amp; Entertaining</a></h2>
+                        </li>
+                        <li class="hl5">
+                           <h2><a title="" href="/Category/Home-Living-Heating-Cooling?promo=topnav_home_heating_cooling">Heating &amp; Cooling</a></h2>
+                        </li>
+                        <li class="hl6">
+                           <h2><a title="" href="/Category/Home-Living-Bed-Bath?promo=topnav_home_bed_bath">Bed &amp; Bath</a></h2>
+                        </li>
+                        <li class="hl7">
+                            <h2><a title="" href="/Category/Home-Living-Lighting?promo=topnav_home_lighting">Lighting</a></h2>
+                        </li>
+                        <li class="hl8">
+                            <h2><a title="" href="/Category/Home-Living-Furniture?promo=topnav_home_furniture">Furniture</a></h2>
+                        </li>
+                        <li class="hl9">
+                            <h2><a title="" href="/Category/Home-Living-Air-Quality?promo=topnav_home_air_quality">Air Quality</a></h2>
+                        </li>
+                        <li class="hl10">
+                            <h2><a title="" href="/Category/Home-Living-Clocks?promo=topnav_home_clocks">Clocks</a></h2>
+                        </li>
+                        <li class="hl11">
+                            <h2><a title="" href="/Category/Home-Living-Pets?promo=topnav_home_pets">Pets</a></h2>
+                        </li>
+                        <li class="hl12">
+                            <h2><a title="" href="/Category/Home-Living-Organization-Storage?promo=topnav_home_organization">Organization &amp; Storage</a></h2>
+                        </li>
+                        <li class="hl13">
+                            <h2><a title="" href="/Category/Home-Living-Safety-Security?promo=topnav_home_safety_security">Safety &amp; Security</a></h2>
+                        </li>
+                        <li class="hl14">
+                            <h2><a title="" href="/Category/Home-Living-Home-Decorating?promo=topnav_home_decorating">Home Decorating</a></h2>
+                        </li>
+                         <li class="hl15">
+                            <h2><a title="" href="/Category/Home-Living-Holiday-Collectibles?promo=topnav_holiday_Collectibles">Holiday &amp; Collectibles</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Outdoor-Living?promo=topnav_outdoor" class="outdoor">Outdoor</a>
+                <div class="sub_center outdoor_living_sub">
+                    <ul>
+                        <li class="ol1">
+                            <h2><a title="" href="/Category/Outdoor-Living-New-Arrivals?promo=topnav_outdoor_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="ol2">
+                            <h2><a title="" href="/Category/Outdoor-Living-Furniture?promo=topnav_outdoor_outdoor_furniture">Outdoor Furniture</a></h2>
+                        </li>
+                        <li class="ol3">
+                            <h2><a title="" href="/Category/Outdoor-Living-Lawn-Garden?promo=topnav_outdoor_lawn_garden">Lawn &amp; Garden</a></h2>
+                        </li>
+                        <li class="ol4">
+                            <h2><a title="" href="/Category/Outdoor-Living-Patio?promo=topnav_outdoor_patio">Patio</a></h2>
+                        </li>
+                        <li class="ol5">
+                            <h2><a title="" href="/Category/Outdoor-Living-Entertaining?promo=topnav_outdoor_entertaining">Outdoor Entertaining</a></h2>
+                        </li>
+                        <li class="ol7">
+                            <h2><a title="" href="/Category/Outdoor-Living-Outdoor-Lighting?promo=topnav_outdoor_outdoor_lighting">Outdoor Lighting</a></h2>
+                        </li>
+                        <li class="ol8">
+                            <h2><a title="" href="/Category/Outdoor-Living-Pest-Control?promo=topnav_outdoor_pest_control">Pest Control</a></h2>
+                        </li>
+                        <li class="ol9">
+                            <h2><a title="" href="/Category/Outdoor-Living-Auto?promo=topnav_outdoor_auto_accessories">Auto Accessories</a></h2>
+                        </li>
+                        <li class="ol10">
+                            <h2><a title="" href="/Category/Outdoor-Living-Pets?promo=topnav_outdoor_pets">Pets</a></h2>
+                        </li>
+                        <li class="ol11">
+                            <h2><a title="" href="/Category/Outdoor-Living-Outdoor-Games?promo=topnav_outdoor_games">Outdoor Games</a></h2>
+                        </li>
+						<li class="ol12">
+                            <h2><a title="" href="/Category/Outdoor-Living-Barbecue?promo=topnav_barbecue">Barbecue</a></h2>
+                        </li>
+						<li class="ol13">
+                            <h2><a title="" href="/Category/Outdoor-Living-Furniture-Covers?promo=topnav_furniture_covers">Furniture Covers</a></h2>
+                        </li>
+                    
+			</ul>
+                </div>
+            </li>
+            <li><a href="/Category/Personal-Care?promo=topnav_personal" class="personal">Personal Care</a>
+                <div class="sub_center personal_care_sub">
+                    <ul>
+                        <li class="pc1">
+                            <h2><a href="/Category/Personal-Care-New-Arrivals?promo=topnav_personal_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="pc2">
+                            <h2><a href="/Category/Personal-Care-Womens-Care?promo=topnav_personal_womens_care">Women's Care</a></h2>
+                        </li>
+                        <li class="pc3">
+                            <h2><a href="/Category/Personal-Care-Mens-Care?promo=topnav_personal_mens_care">Men's Care</a></h2>
+                        </li>
+                        <li class="pc4">
+                            <h2><a href="/Category/Personal-Care-Massage-Relaxation?promo=topnav_personal_massage_relaxation">Massage &amp; Relaxation</a></h2>
+                        </li>
+                        <li class="pc5">
+                            <h2><a href="/Category/Personal-Care-Exercise?promo=topnav_personal_exercise">Exercise</a></h2>
+                        </li>
+                        <li class="pc6">
+                            <h2><a href="/Category/Personal-Care-Pain-Relief?promo=topnav_personal_pain_relief">Pain Relief</a></h2>
+                        </li>
+                        <li class="pc7">
+                            <h2><a href="/Category/Personal-Care-Health-Management?promo=topnav_personal_health">Health Management</a></h2>
+                        </li>
+                        <li class="pc8">
+                            <h2><a href="/Category/Personal-Care-Home-Spa?promo=topnav_personal_home_spa">Home Spa</a></h2>
+                        </li>
+                        <li class="pc9">
+                            <h2><a href="/Category/Personal-Care-Bed-Bath?promo=topnav_personal_bed_bath">Bed &amp; Bath</a></h2>
+                        </li>
+                        <li class="pc10">
+                            <h2><a href="/Category/Personal-Care-Germ-Elimination?promo=topnav_personal_germ_elimination">Germ Elimination</a></h2>
+                        </li>
+                        <li class="pc11">
+                            <h2><a href="/Category/Personal-Care-Sound-Therapy?promo=topnav_personal_sound_therapy">Sound Therapy</a></h2>
+                        </li>
+                        <li class="pc12">
+                            <h2><a href="/Category/Personal-Care-Living-Well?promo=topnav_personal_living_well">Living Well</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Sports-Leisure?promo=topnav_sports" class="sports">Sports &amp; Leisure</a>
+                <div class="sub_center sports_leisure_sub">
+                    <ul>
+                        <li class="sl1">   
+                            <h2><a href="/Category/Sports-Leisure-New-Arrivals?promo=topnav_sports_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="sl2">
+                           <h2><a href="/Category/Sports-Leisure-Outdoor-Fun?promo=topnav_sports_outdoor_fun">Outdoor Fun</a></h2>
+                        </li>
+                        <li class="sl3">
+                            <h2><a href="/Category/Sports-Leisure-Exercise?promo=topnav_sports_exercise">Exercise</a></h2>
+                        </li>
+                        <li class="sl4">
+                            <h2><a href="/Category/Sports-Leisure-Pool-Water?promo=topnav_sports_pool">Pool &amp; Water</a></h2>
+                        </li>
+                        <li class="sl5">
+                            <h2><a href="/Category/Sports-Leisure-Sports?promo=topnav_sports_sports">Sports</a></h2>
+                        </li>
+                        <li class="sl6">
+                            <h2><a href="/Category/Sports-Leisure-Golf?promo=topnav_sports_golf">Golf</a></h2>
+                        </li>
+                        <li class="sl7">
+                            <h2><a href="/Category/Sports-Leisure-Games?promo=topnav_sports_games">Games</a></h2>
+                        </li>
+                        <li class="sl8">
+                            <h2><a href="/Category/Sports-Leisure-Art-Music?promo=topnav_sports_art_music">Art &amp; Music</a></h2>
+                        </li>
+                        <li class="sl9">
+                            <h2><a href="/Category/Sports-Leisure-Cameras-Camcorders?promo=topnav_sports_cameras">Cameras &amp; Camcorders</a></h2>
+                        </li>
+                        <li class="sl10">
+                            <h2><a href="/Category/Sports-Leisure-Binoculars?promo=topnav_sports_binoculars">Binoculars</a></h2>
+                        </li>
+                        <li class="sl11">
+                            <h2><a href="/Category/Sports-Leisure-Optics?promo=topnav_sports_optics">Optics</a></h2>
+                        </li>
+                        <li class="sl12">
+                            <h2><a href="/Category/Sports-Leisure-Books-Movies?promo=topnav_sports_books_movie">Books &amp; Movies</a></h2>
+                        </li>
+                        <li class="sl13">
+                            <h2><a title="" href="/Category/Sports-Leisure-Collecting-Memorabilia?promo=topnav_sports_memorabilia">Collecting &amp; Memorabilia</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Toys-Games?promo=topnav_toys" class="toys">Toys</a>
+                <div class="sub_right toys_games_sub">
+                    <ul>
+                        <li class="tg1">
+                            <h2><a title="" href="/Category/Toys-Games-New-Arrivals?promo=topnav_toys_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="tg3">
+                            <h2><a title="" href="/Category/Toys-Games-Award-Winning-Toys?promo=topnav_toys_award_winning_toys">Award Winning Toys</a></h2>
+                        </li>
+                        <li class="tg4">
+                            <h2><a title="" href="/Category/Toys-Games-Remote-Control-Toys?promo=topnav_toys_remote_control_toys">Remote Control Toys</a></h2>
+                        </li>
+                        <li class="tg5">
+                            <h2><a title="" href="/Category/Toys-Games-Infants-Toddlers?promo=topnav_toys_infants_toddlers">Infants &amp; Toddlers</a></h2>
+                        </li>
+                        <li class="tg6">
+                            <h2><a title="" href="/Category/Toys-Games-Outdoor-Play?promo=topnav_toys_outdoor_play">Outdoor Play</a></h2>
+                        </li>
+                        <li class="tg7">
+                            <h2><a title="" href="/Category/Toys-Games-Teens-Tweens?promo=topnav_toys_teens">Teens &amp; Tweens</a></h2>
+                        </li>
+                        <li class="tg8">
+                            <h2><a title="" href="/Category/Toys-Games-Ride-On-Toys?promo=topnav_toys_ride_on_toys">Ride On Toys</a></h2>
+                        </li>
+                        <li class="tg9">
+                            <h2><a title="" href="/Category/Toys-Games-Robots?promo=topnav_toys_robots">Robots</a></h2>
+                        </li>
+                        <li class="tg10">
+                            <h2><a title="" href="/Category/Toys-Games-Arcade-Rec-Room?promo=topnav_toys_arcade_rec_room">Arcade &amp; Rec Room</a></h2>
+                        </li>
+                        <li class="tg11">
+                            <h2><a title="" href="/Category/Toys-Games-Classic-Toys?promo=topnav_toys_classic_toys">Classic Toys</a></h2>
+                        </li>
+                        <li class="tg12">
+                            <h2><a title="" href="/Category/Toys-Games-Games?promo=topnav_toys_games">Games</a></h2>
+                        </li>
+                        <li class="tg13">
+                            <h2><a title="" href="/Category/Toys-Games-Crafts-Construction?promo=topnav_toys_crafts_construction">Crafts &amp; Construction</a></h2>
+                        </li>
+                        <li class="tg14">
+                            <h2><a title="" href="/Category/Toys-Games-Art-Music?promo=topnav_toys_art_music">Art &amp; Music</a></h2>
+                        </li>
+                        <li class="tg15">
+                            <h2><a title="" href="/Category/Toys-Games-Electronic-Learning?promo=topnav_toys_electronic_learning">Electronic Learning</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/Category/Travel?promo=topnav_travel" class="travel">Travel</a>
+                <div class="sub_right travel_sub">
+                    <ul>
+                        <li class="t1">            
+                            <h2><a title="" href="/Category/Travel-New-Arrivals?promo=topnav_travel_new">New Arrivals</a></h2>
+                        </li>
+                        <li class="t2">
+                            <h2><a title="" href="/Category/Travel-Luggage?promo=topnav_travel_luggage">Luggage</a></h2>
+                        </li>
+                        <li class="t3">
+                            <h2><a title="" href="/Category/Travel-Carry-Ons?promo=topnav_travel_carry_ons">Carry Ons</a></h2>
+                        </li>
+                        <li class="t4">
+                            <h2><a title="" href="/Category/Travel-Travel-Essentials?promo=topnav_travel_essentials">Travel Essentials</a></h2>
+                        </li>
+                        <li class="t5">       
+                            <h2><a title="" href="/Category/Travel-iPad-Accessories?promo=topnav_travel_ipad">iPad Accessories</a></h2>
+                        </li>
+                        <li class="t6">           
+                            <h2><a title="" href="/Category/Travel-iPod?promo=topnav_travel_ipod">iPod &amp; iPhone Accessories</a></h2>
+                        </li>
+                        <li class="t7">        
+                            <h2><a title="" href="/Category/Travel-Electronics?promo=topnav_travel_portable_electronics">Portable Electronics</a></h2>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </li>
+			
+			
+            <li><a href="/Category/Holiday?promo=topnav_hol" class="holiday">Holiday</a>
+                <div class="sub_right holiday_sub">
+                    <ul class="holiday_nav">
+                        <li class="hol1">
+                           <h2><a title="" href="/Category/Holiday-Christmas-Trees?promo=topnav_hol_trees">Christmas Trees</a></h2>
+                        </li>
+                        <li class="hol2">
+                            <h2><a title="" href="/Category/Holiday-Indoor-Decorations?promo=topnav_hol_indoor">Indoor Decorations</a></h2>
+                        </li>
+                        <li class="hol3">
+                            <h2><a title="" href="/Category/Holiday-Outdoor-Decorations?promo=topnav_hol_outdoor">Outdoor Decorations</a></h2>
+                        </li>
+                        <li class="hol4">
+                            <h2><a title="" href="/Category/Holiday-Holiday-Greenery?promo=topnav_hol_greenery">Holiday Greenery</a></h2>
+                        </li>
+                        <li class="hol5">
+                            <h2><a title="" href="/Category/Holiday-Seasonal-Collectibles?promo=topnav_hol_collectibless">Seasonal Collectibles</a></h2>
+                        </li>
+                        <li class="hol6">
+                            <h2><a title="" href="/Category/Holiday-Thomas-Kinkade?promo=topnav_kinkade">Thomas Kinkade</a></h2>
+                        </li>
+                        <li class="hol7">
+                            <h2><a title="" href="/Category/Holiday-Entertaining?promo=topnav_hol_entertaining">Holiday Entertaining</a></h2>
+                        </li>
+                        <li class="hol8">
+                            <h2><a title="" href="/Category/Holiday-Halloween-Decor?promo=topnav_hol_halloween">Halloween Decor</a></h2>
+                        </li>
+                        <li class="hol9">
+                            <h2><a title="" href="/Category/Holiday-HolidayTreats?promo=topnav_hol_treats">Holiday Treats</a></h2>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+		
+			
+            <li><a href="/Category/Special-Values?promo=top_nav_sv" class="special_values">Special Values</a>
+                <div class="sub_right special_values_sub">
+                    <ul>
+                        <li class="sv1">
+                            <h2><a title="" href="/Category/Special-Values-Recently-Reduced?promo=top_nav_sv_recently_reduced">Recently Reduced</a></h2>
+                        </li> 
+			            <li class="sv2">
+                           <h2><a title="" href="/Category/Special-Values-Electronics?promo=top_nav_sv_electronics">Electronics</a></h2>
+                        </li>
+                        <li class="sv3">
+                            <h2><a title="" href="/Category/Special-Values-Home-Living?promo=top_nav_sv_home_living">Home Living</a></h2>
+                        </li>
+                        <li class="sv4">
+                            <h2><a title="" href="/Category/Special-Values-Outdoor-Living?promo=top_nav_sv_outdoor_living">Outdoor Living</a></h2>
+                        </li>
+                        <li class="sv5">
+                            <h2><a title="" href="/Category/Special-Values-Personal-Care?promo=top_nav_sv_personal_care">Personal Care</a></h2>
+                        </li>
+                        <li class="sv6">
+                            <h2><a title="" href="/Category/Special-Values-Sports-Leisure?promo=top_nav_sv_sports_leisure">Sports &amp; Leisure</a></h2>
+                        </li>
+                        <li class="sv7">
+                            <h2><a title="" href="/Category/Special-Values-Apparel?promo=top_nav_sv_apparel">Apparel</a></h2>
+                        </li>
+                        <li class="sv8">
+                            <h2><a title="" href="/Category/Special-Values-Toys-Games?promo=top_nav_sv_toys_games">Toys &amp; Games</a></h2>
+                        </li>
+                        <li class="sv9">
+                            <h2><a title="" href="/Category/Special-Values-Travel?promo=top_nav_sv_travel">Travel</a></h2>
+                        </li>
+                        <li class="sv10">
+                            <h2><a title="" href="/Category/Special-Values-Holiday?promo=top_nav_sv_Holiday">Holiday</a></h2>
+                        </li>
+                        <li class="sv11">
+                            <h2><a title="" href="/Category/Floor-Sample-Sale?promo=top_nav_sv_Sample-Sale">Floor Sample Sale</a></h2>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </li>
+
+        </ul>
+        <div class="clear">
+        </div>
+    </div>
+    <!-- /main_nav -->
+  
+    
+</div>
+
+     
+     
+    </div>
+    <div class="content">
+    
+
+    <link href="/css30/2016.01.14/magiczoomplus.css" rel="stylesheet" type="text/css" media="screen"/>                 
+    <script src="/scripts30/2015.02.26/magiczoomplus.js" type="text/javascript"></script>
+    
+    <script src="/scripts30/2015.02.26/product.js" type="text/javascript"></script>
+
+
+<div id="ctl00_ContentPlaceHolder_productPanel">
+	
+        
+<style type="text/css">   
+/* Z-index of #mask must lower than #boxes .window */  
+#mask {   
+  position:absolute;   
+  z-index:9000;   
+  display:none;       
+}   
+
+#boxes .window {   
+  position:absolute;   
+  width:440px;   
+  height:200px;   
+  display:none;   
+  z-index:9999;   
+  padding:10px; 
+  background-color: #F2F2F2;   
+  border:1px solid silver;
+}   
+.close
+{
+   position:absolute;   
+   left:600px;   
+}
+/* Customize your modal window here, you can add background image too */  
+#boxes #dialog {   
+  width:375px;    
+  height:203px;   
+}   
+</style>
+<script type="text/javascript">     
+$(document).ready(function() {     
+  
+    //select all the a tag with name equal to modal   
+    $('a[name=modal]').click(function(e) {   
+        //Cancel the link behavior   
+        e.preventDefault();   
+        //Get the A tag   
+        var id = $(this).attr('href');   
+       
+        //Get the screen height and width   
+        var maskHeight = 520;   
+        var maskWidth = 660;   
+       
+        //Set height and width to mask to fill up the whole screen   
+        $('#mask').css({'width':maskWidth,'height':maskHeight}); 
+
+        //transition effect        
+        $('#mask').fadeIn(1000);       
+        $('#mask').fadeTo("slow",0.95);    
+        $('#mask').css('top', $(window).scrollTop() + 50); 
+        $('#mask').css('left', 50);                       
+       
+        //Get the window height and width   
+        var winH = 700;   
+        var winW = 660;   
+                                 
+        //Set the popup window to center   
+        $(id).css('top',  $(window).scrollTop() + 50);   
+        $(id).css('left', 50);        
+        $(id).css('height',520);
+        $(id).css('width',635);
+       
+        //transition effect   
+        $(id).fadeIn(1200);           
+    });   
+           
+    //if close button is clicked   
+    $('.window .close').click(function (e) {   
+        //Cancel the link behavior   
+        e.preventDefault();   
+        $('#mask, .window').hide();   
+    });        
+       
+    //if mask is clicked   
+    $('#mask').click(function () {   
+        $(this).hide();   
+        $('.window').hide();   
+    });                   
+});   
+  
+</script>
+
+        <input name="ctl00$ContentPlaceHolder$validHidden" type="hidden" id="ctl00_ContentPlaceHolder_validHidden" />
+        <div id="prod-right-outer" class="product_container">
+        <div>
+       
+<a id="ctl00_ContentPlaceHolder_BreadCrumbTrail_lnkHome" href="../?promo=Breadcrumb" style="text-decoration:underline;">Home</a>
+<img id="ctl00_ContentPlaceHolder_BreadCrumbTrail_imgFirstLevelSeparator" class="BreadCrumbSeparator" src="http://www.hammacher.com/images30/breadcrumb_arrow_gry_7x7.jpg" border="0" />
+<a id="ctl00_ContentPlaceHolder_BreadCrumbTrail_lnkFirstLevel" href="../Category/Home-Living?promo=Breadcrumb" style="text-decoration:underline;">Home Living</a>
+<img id="ctl00_ContentPlaceHolder_BreadCrumbTrail_imgSecondLevelSeparator" class="BreadCrumbSeparator" src="http://www.hammacher.com/images30/breadcrumb_arrow_gry_7x7.jpg" border="0" />
+<a id="ctl00_ContentPlaceHolder_BreadCrumbTrail_lnkSecondLevel" href="../Category/Home-Living-Kitchen-Entertaining?promo=Breadcrumb" style="text-decoration:underline;">Kitchen &amp; Entertaining</a>
+
+</div>
+            <div id="prod-right-inner" class="product_right">
+           
+        
+        
+                    
+                        
+
+
+<div id="ctl00_ContentPlaceHolder_r_ctl01_p_detail" class="product_right_panel">
+		
+    <span id="ctl00_ContentPlaceHolder_r_ctl01_p_productNameHeading1" class="productHeader">The Best Commuter Cup.</span>
+    
+    
+        <span id="ctl00_ContentPlaceHolder_r_ctl01_p_detailDescription" class="plain_copy"></span>
+    <div id="ctl00_ContentPlaceHolder_r_ctl01_p_tabs_div" class="tabs-bottom ui-tabs ui-widget ui-widget-content ui-corner-all"><ul class='ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-bottom'><li class='ui-state-default ui-tabs-selected ui-state-active ui-corner-bottom'><a href='#tabs_1'>Description</a></li><li class='ui-state-default ui-corner-bottom' id='reviews'><a href='#pr' style='Width:130px; Background-repeat: no-repeat; Background-image: url(/images30/stars_small.png);Background-position: 61px -179px;'>Reviews</a></li><li class='ui-state-default ui-corner-bottom'><a href='#tabs_2'>Lifetime Guarantee</a></li></ul><div id='tabs_1' class='ui-tabs-panel ui-widget-content ui-corner-bottom'><p class='tab_content'>After comparison tests of commuter cups by the Hammacher Schlemmer Institute, this model proved to be The Best for the fifth consecutive year because it is easy to drink from and does not leak, even when inverted. The Best model&#8217;s spill-proof lid springs open with the touch of a button&#8212;staying out of the way as you drink&#8212;and its handleless, slim design fits in a car&#8217;s cup holder. A safety lock prevents spills when the cup is carried in a briefcase or purse. The Best Commuter Cup allowed hot water to decrease in temperature by only 18º F after two hours, unlike lesser models that lost up to 71º F. It kept ice cubes frozen for 36 hours, while other commuter cups allowed ice to melt in six hours. The commuter cup&#8217;s superior temperature retention is due to its dual walls of stainless steel and vacuum insulation that also prevents heat- or cold- transfer to the exterior. It washes easily because of its removable lid and nonporous interior. BPA-free construction. Blue or Black. 16-oz. capacity. 9" H x 2 1/2" W. (17 oz.)
+
+ <style>
+.testimonial_quote {
+                width: 508px;
+                text-align: center;
+}
+ 
+blockquote {
+                padding-top: 10px;
+                overflow: hidden; /* clearfix alternative */
+                font-size: 14px;
+                line-height: 150%;
+                color: #212121;
+                font-family: georgia;
+                width: 480px;
+                
+}
+.bqstart {
+     float: left;
+     height: 45px;
+     margin-top: -20px;
+     padding-top: 45px;
+     margin-bottom: -20px;
+     font-size: 600%;
+     color: #dedede;
+}
+ 
+.bqend {
+     float: right;
+     height: 0px;
+     margin-top: 0px;
+     padding-top: 45px;
+     font-size: 600%;
+     color: #dedede;
+}
+cite { float: right; margin-top: 5px; margin-left: 0px; line-height: 90%; font-size: 13px; color: #111111; font-style:italic}
+               </style>
+<div class="testimonial_quote">
+<blockquote><span class="bqstart">&#8220;</span>Keeps the hot coffee hot for a long time and does NOT leak.<span class="bqend">&#8221;</span><cite>- CT, Pennsylvania </cite>
+</blockquote>
+</div></p></div><div id='tabs_reviews' class='ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide'><p class='tab_name'>Reviews</p><p class='tab_content'>Reviews</p></div><div id='tabs_2' class='ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide'><p class='tab_name'>Lifetime Guarantee</p><p class='tab_content'>The Best Commuter Cup&nbsp;comes with The Hammacher Schlemmer Lifetime Guarantee at no additional charge. If this product ever disappoints you, for any reason, you may return your Hammacher Schlemmer purchase for exchange, credit, or refund.<br><br>Should you have any questions, we are available 24 hours a day, seven days a week. Please call 1-800-321-1484 to speak with a product specialist or email us at customerservice@hammacher.com to receive a response within one hour.</p></div></div>
+    
+
+	</div>
+<div class="existing">
+    <div class="product_control_detail_up">
+        
+        
+        
+        <div class="item_info_div" style="float:left;width:30%;">
+            <span id="ctl00_ContentPlaceHolder_r_ctl01_p_itemNo" class="item_no">Item 82477</span>
+            
+            
+        </div>
+        <div id="ctl00_ContentPlaceHolder_r_ctl01_p_itemPriceDiv" class="item_price_div">
+            <span id="ctl00_ContentPlaceHolder_r_ctl01_p_itemPrice" class="item_price">Price $34.95</span>
+        </div>
+        <div id="ctl00_ContentPlaceHolder_r_ctl01_p_div_qty" class="buy-opts-ctrl qtyLit ">
+            
+        </div>
+        <div style="clear:both"></div>
+        
+        
+        
+        <div id="ctl00_ContentPlaceHolder_r_ctl01_p_productStyles_qty_div" class="op_qty">
+    <label for="__input_qty_82477" class="qtyLabel">How many?</label><input name="__input_qty_82477" id="__input_qty_82477" type="text" value="1" maxlength="2"  class="required number greaterthanzero item_qty add_item_attr qtyInput" />
+</div>
+
+<div class="item_variation_ddl">
+<select name="select_82477_style_0" id="select_82477_style_0" onChange="checkInventory_82477();return;" varistyle="Color" class="dropdownlist add_item_attr vari_select"><option value="0">-- Select Color --</option>
+<option value="25">Blue</option>
+<option value="21">Black</option>
+</select>
+
+<div id="__div_inv_message_82477" class="inventory-message">&nbsp;</div>
+</div>
+<script language="javascript" type="text/javascript">function checkInventory_82477() { checkInventoryJSON('82477', 'select_82477_style_0') ;}</script>
+
+<input name="__hidden_buy_82477" id="__hidden_buy_82477" value="0" type="hidden" class="add_item_attr"/>
+<input name="__hidden_available_82477" id="__hidden_available_82477" value="false" type="hidden" class="add_item_attr" />
+<input name="__hidden_gw_82477" id="__hidden_gw_82477" value="True" type="hidden" class="add_item_attr" />
+
+
+
+ 
+        
+        <div class="holder">
+            <div id="ctl00_ContentPlaceHolder_r_ctl01_p_giftWrapDiv" class="gift-wrap-message floatright">
+                
+<div class="floatright">
+
+
+<span class="batt-lbl">
+    <a id="ctl00_ContentPlaceHolder_r_ctl01_p_gw_gwhl1" href="javascript:OpenPopover(&#39;/PopWindows/GiftWrap.aspx #gift_wrap_main&#39;,420, 170);">Add Gift Wrap for&nbsp;$6.95</a>
+    <a id="ctl00_ContentPlaceHolder_r_ctl01_p_gw_gwhl2" href="javascript:OpenPopover(&#39;/PopWindows/GiftWrap.aspx #gift_wrap_main&#39;,420, 170);"></a>
+</span>
+<span id="pp_check">
+    <span class="prod_page_checkbox"><input id="ctl00_ContentPlaceHolder_r_ctl01_p_gw_gwcheck" type="checkbox" name="ctl00$ContentPlaceHolder$r$ctl01$p$gw$gwcheck" /></span>
+</span>
+</div>
+<input name="__hidden_gw_chk_82477" id="__hidden_gw_chk_82477" value="False" type="hidden" />
+            </div>
+            <!-- upsell batteries -->
+            
+        </div>
+    </div>
+    
+    <div class="new_structure" style="padding-bottom:4px;"></div>
+</div>
+            
+                <div class="inventory-message" id="customizations">
+                
+               </div>
+               
+                
+                <div id="ctl00_ContentPlaceHolder_addToShoppingBagDiv" class="addtoshoppingbagdiv floatright">                                       
+                    <input type="submit" name="ctl00$ContentPlaceHolder$addToShoppingBag" value="Add To Shopping Bag" onclick="return addToShoppingBagValidator();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder$addToShoppingBag&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.hammacher.com/Product/Default.aspx?sku=82477&quot;, false, false))" id="ctl00_ContentPlaceHolder_addToShoppingBag" title="Buy The Best Commuter Cup. at Hammacher Schlemmer" class="checkoutbtnlg_addtocart prod_cart_submit" alt="Buy The Best Commuter Cup. at Hammacher Schlemmer" />
+                   
+        </div>
+                   
+                <div id="cross-sells" class="cross_sell left">
+                    <p class="cross-sell" style="border-bottom:1px solid #E4E4E4;">May we recommend:</p><ul><li><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl01_imgCrossSell" title="The World&#39;s Smallest Automatic Umbrella." class="imgCrossSell" href="/Product/Default.aspx?sku=83512&amp;refsku=82477&amp;xsp=1&amp;promo=xsells"><img title="The World&#39;s Smallest Automatic Umbrella." src="http://digital.hammacher.com/Items/83512/83512_90x90.jpg" alt="The World&#39;s Smallest Automatic Umbrella." border="0" /></a><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl01_linkCrossSellName" class="linkCrossSellName" href="/Product/Default.aspx?sku=83512&amp;refsku=82477&amp;xsp=1&amp;promo=xsells">The World's Smallest Automatic Umbrella.</a></li><li><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl02_imgCrossSell" title="The Sightseer&#39;s Argentinian Leather Carryall." class="imgCrossSell" href="/Product/Default.aspx?sku=86716&amp;refsku=82477&amp;xsp=2&amp;promo=xsells"><img title="The Sightseer&#39;s Argentinian Leather Carryall." src="http://digital.hammacher.com/Items/86716/86716_90x90.jpg" alt="The Sightseer&#39;s Argentinian Leather Carryall." border="0" /></a><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl02_linkCrossSellName" class="linkCrossSellName" href="/Product/Default.aspx?sku=86716&amp;refsku=82477&amp;xsp=2&amp;promo=xsells">The Sightseer's Argentinian Leather Carryall.</a></li><li><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl03_imgCrossSell" title="The Single Cup Grind And Brew Coffeemaker." class="imgCrossSell" href="/Product/Default.aspx?sku=87331&amp;refsku=82477&amp;xsp=3&amp;promo=xsells"><img title="The Single Cup Grind And Brew Coffeemaker." src="http://digital.hammacher.com/Items/87331/87331_90x90.jpg" alt="The Single Cup Grind And Brew Coffeemaker." border="0" /></a><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl03_linkCrossSellName" class="linkCrossSellName" href="/Product/Default.aspx?sku=87331&amp;refsku=82477&amp;xsp=3&amp;promo=xsells">The Single Cup Grind And Brew Coffeemaker.</a></li><li><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl04_imgCrossSell" title="The Wind Defying Packable Umbrella." class="imgCrossSell" href="/Product/Default.aspx?sku=87619&amp;refsku=82477&amp;xsp=4&amp;promo=xsells"><img title="The Wind Defying Packable Umbrella." src="http://digital.hammacher.com/Items/87619/87619_90x90.jpg" alt="The Wind Defying Packable Umbrella." border="0" /></a><a id="ctl00_ContentPlaceHolder_crossSellControl_r_ctl04_linkCrossSellName" class="linkCrossSellName" href="/Product/Default.aspx?sku=87619&amp;refsku=82477&amp;xsp=4&amp;promo=xsells">The Wind Defying Packable Umbrella.</a></li></ul>
+<div id="quicklook" class="hidden" align="center"></div>
+
+    </div>
+</div>
+            <div id="prod-left" class="prod-left" >
+                
+
+
+<script type="text/javascript" src="/scripts30/1.8_jquery-ui.min.js"></script>
+
+    
+    <div id="ctl00_ContentPlaceHolder_productAssetsControl_productAssetViewControl_divProductAsset" Class="primary-asset"><a href="http://digital.hammacher.com/Items/82477/82477_1000x1000.jpg" rel="expand-effect: linear; hint: false; pan-zoom: false; click-to-activate:true; click-to-initialize:false; zoom-width:514px;zoom-height:378px;zoom-distance: 37;zoom-fade:true; smoothing-speed:20;opacity-reverse:true;;background-opacity: 50" class="MagicZoomPlus" id="Zoomer" title="The Best Commuter Cup."><img src="http://digital.hammacher.com/Items/82477/82477_380x380.jpg"/></a></div>
+ 
+
+    
+    
+    <div class="magnify_instructions">Hover and click to magnify, click again to zoom.</div>
+    
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl00_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl01_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477A_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477A_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477A_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl02_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477B_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477B_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477B_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl03_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477G_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477G_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477G_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl04_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477H_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477H_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477H_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl05_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477I_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477I_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477I_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+            <div id="ctl00_ContentPlaceHolder_productAssetsControl_r_ctl06_ast_divProductAsset" Class="additional-asset floatleft"><a href="http://digital.hammacher.com/Items/82477/82477J_1000x1000.jpg" rel="zoom-id:Zoomer;click-to-initialize:true" title="The Best Commuter Cup." rev="http://digital.hammacher.com/Items/82477/82477J_380x380.jpg"><img src="http://digital.hammacher.com/Items/82477/82477J_64x64.jpg" style='border:1px solid #ededed;margin:0 4px 0 0;padding:1px' /></a></div>
+ 
+
+        
+
+     
+    
+<div onclick="OmnitureViewAdditionalHtmlAndVideo();" class='additionalhtmlvideo hidden floatleft'><div class="addtionalhtmlvideo">
+<div style="display: none;">
+<div id="content-lightbox"><iframe width="640" height="480" frameborder="0" src="//fast.wistia.net/embed/iframe/qw52qdyez2" allowtransparency="true" scrolling="no" class="wistia_embed" name="wistia_embed"></iframe></div>
+</div>
+<a href="javascript:ShowLightbox('#content-lightbox', width=688, height= 600);"><img src="http://s7ondemand1.scene7.com/is/image/Hammacher/82477vid?wid=238&amp;qlt=90" alt="Watch The Best Commuter Cup in action" style="border-width: 1px; border-style: solid;" /></a></div>
+<br />
+<br />
+<a href="//www.pinterest.com/pin/create/extension/" style="height: 20px; width: 40px; position: absolute; opacity: 0.85; z-index: 8675309; display: none; cursor: pointer; border: medium none; background-color: transparent; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAYAAAD/Rn+7AAADU0lEQVR42s2WXUhTYRjHz0VEVPRFUGmtVEaFUZFhHxBhsotCU5JwBWEf1EWEEVHQx4UfFWYkFa2biPJiXbUta33OXFtuUXMzJ4bK3Nqay7m5NeZq6h/tPQ+xU20zugjOxR/+7/O8539+5znnwMtNTExwJtMb3L/fiLv3botCSmUjeCaejTOb39AiFothfHxcFIrHY8RksZjBsckJcOIRMfFsHD/SsbExUYpnI8DR0dGUGjSb0byhEJp5Uqg5CTSzc2CQleJbMEj9/ywBcGRkJEk9DQqouEVQT1sK444yWI9UonmTjGqauVLEIlHa9x8lAMbj8SSpp0rwKGMVvg8P46vbg0C7na8z8JsMcgHe7jlEa+edRhiLy8n/TUMfu6EvLElk+U0WtGwrTrdfAGQf5J8iiK4LVzDU28t8JtMSocf8E+l68myaNFXm/6rXslLK7ay5TOunuRvZWpJuvwAYjUaTpOIWoquuAZ219RTaxKYp9BbjycoN5FvL9qH9TBX5rvoGdJythvXYSTxdtRnWylO/ZdqrLsGwszzhWQ593z2KlAwCYCQSSZJ6ehZ0W7bD9VBLgN0NCqr3qR7R2rBrL3pu3Sb/7nDlz2uy6cG0OXk0GTbZXzNp8trsPAQdTj6frlWzN2DcXZGKQQAMh8NJ6rpyHe+PnkCr/CAFdZyvpfpjuvkifLF9wIt1Wwlo0OHie1RvWrKa93RjzfzliTzPKz3ltB0/Tevmwp14wGUgHAzSOoUEwFAolFaaBSuhnslPRkJexUJtZ6v5HtUeLswl33n1BgEY5fvhs9sJ3FAiT+QYyyvoAQJuD0KBAFRTJNAuz5/s3gJgMBhMJwrVFRThM5tY5zUF/A4X1f2fvQTRLCuBreoim0YmAbqNJryvPEXeeq46kaNdkQ/1HCncbJKPs9ZSv2VHGfWsZ2hfkhKAfr8/pdxWKx4wwD69PmVfNSOL+lr2w+gYqHpWDtXt1xQ8AMlWU0e1lqLd/APRHoP8AJqWrQG9gYxcPMsvSJUvAA4MDKTUJ7MZLaVy8v+qT21tcDx/OemePr0RTkNrur4A6PP5xCgBsL+/X4wiQDpuuVxOeL1eMYmYeDY6sOp0z+B0OuHxeEQhxkJMFosJiSO/UinOI/8Pc+l7KKArAT8AAAAASUVORK5CYII=');"></a></div>
+    <div class="clear-twenty-before-addthis"></div>
+<div class="clear"></div>
+
+
+                <div class="clear-one">
+</div>
+            </div>
+            <div id="pr_reviews" style="display:none;">
+            <div id="pr" style="float:left;">
+            <div id="pr-review-engine-82477" class="pr-review-engine"><div id="pr-header-82477" class="pr-header"><div class="pr-snapshot"><div class="pr-review-social-bar pr-fb-needs-merchant" style="display:none;"><div class="pr-clear"></div></div><a name="ReviewHeader"></a><div class="pr-snapshot-head"><div class="pr-snapshot-head-wrapper pr-float-left"><p class="pr-snapshot-title">REVIEW SNAPSHOT&reg;</p><a href="#" class="pr-snapshot-cobrand" data-pr-event="snapshot-cobrand-link-pre" onclick="POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/index_en_US.html', 410, 420); return false;">by PowerReviews</a></div><div class="pr-clear"></div></div><div class="pr-snapshot-body"><div class="pr-snapshot-body-wrapper"><div class="pr-snapshot-rating-wrapper hreview-aggregate"><div class="pr-snapshot-product-name item"><span class="fn">The Best Commuter Cup.</span></div><div class="pr-snapshot-rating rating"><div class="pr-stars pr-stars-5" style="background-position: 0px -230px;">&nbsp;</div><span class="pr-rating pr-rounded average">4.8</span><p class="pr-snapshot-average-based-on-text">(based on <span  class="count">525</span> reviews)</p><div id="pr-snapshot-histogram"><a tabindex="0" data-pr-event="snapshot-histogram-link" href="#" id="pr-snapshot-histogram-lnk" onclick="return false" onmouseover="POWERREVIEWS.common.togglePopOut({'target':'pr-snapshot-histogram-container'},'show', this, event)" onmouseout="POWERREVIEWS.common.togglePopOut({'link':'pr-snapshot-histogram-lnk','target':'pr-snapshot-histogram-container'},'hide', this, event)" onfocus="POWERREVIEWS.common.togglePopOut({'target':'pr-snapshot-histogram-container'},'show', this, event)" onblur="POWERREVIEWS.common.togglePopOut({'link':'pr-snapshot-histogram-lnk','target':'pr-snapshot-histogram-container'},'hide', this, event)"><img id="pr-snapshot-histogram-lnk-img" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_popout.gif" onclick="return false" onmouseover="POWERREVIEWS.common.togglePopOut({'target':'pr-snapshot-histogram-container'},'show', this, event)" onmouseout="POWERREVIEWS.common.togglePopOut({'link':'pr-snapshot-histogram-lnk-img','target':'pr-snapshot-histogram-container'},'hide', this, event)"/></a><div id="pr-snapshot-histogram-wrapper"><div id="pr-snapshot-histogram-container" class="pr-closed" onmouseover="POWERREVIEWS.common.togglePopOut({'target':'pr-snapshot-histogram-container'},'show', this, event)" onmouseout="POWERREVIEWS.common.togglePopOut({'link':'pr-snapshot-histogram-lnk','target':'pr-snapshot-histogram-container'},'hide', this, event)"><p id="pr-snapshot-histogram-header"><span>Ratings Distribution</span></p><div class="pr-ratings-histogram-wrapper"><ul class="pr-ratings-histogram-content"><li class="pr-histogram-5Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 5, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), false);return false" ><p class="pr-histogram-label"><span>5 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:84.76190476190476%">&nbsp;</div></div><p class="pr-histogram-count"><span>(445)</span></p></li><li class="pr-histogram-4Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 4, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), false);return false" ><p class="pr-histogram-label"><span>4 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:9.714285714285714%">&nbsp;</div></div><p class="pr-histogram-count"><span>(51)</span></p></li><li class="pr-histogram-3Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 3, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), false);return false" ><p class="pr-histogram-label"><span>3 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:2.857142857142857%">&nbsp;</div></div><p class="pr-histogram-count"><span>(15)</span></p></li><li class="pr-histogram-2Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 2, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), false);return false" ><p class="pr-histogram-label"><span>2 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:1.7142857142857144%">&nbsp;</div></div><p class="pr-histogram-count"><span>(9)</span></p></li><li class="pr-histogram-1Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 1, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), false);return false" ><p class="pr-histogram-label"><span>1 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:0.9523809523809524%">&nbsp;</div></div><p class="pr-histogram-count"><span>(5)</span></p></li></ul></div></div></div></div></div><div class="pr-clear"></div><div class="pr-snapshot-consensus"><p class="pr-snapshot-consensus-value pr-rounded">96%</p> <p class="pr-snapshot-consensus-text">of respondents would recommend this to a friend.</p></div></div><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-ratings" style="display:none"><div class="pr-attribute-key" onclick="POWERREVIEWS.display.collapseReviewPointsPanel(this)"><div class="pr-attribute-label pr-attribute-label-rating"><p class="pr-attribute-label-text">Ratings Distribution</p><div class="pr-attribute-collapse"></div><div class="pr-clear"></div></div></div><div class="pr-attribute-value" style="padding:15px;"><div class="pr-ratings-histogram-wrapper"><ul class="pr-ratings-histogram-content"><li class="pr-histogram-5Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 5, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), true);return false" ><p class="pr-histogram-label"><span>5 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:84.76190476190476%">&nbsp;</div></div><p class="pr-histogram-count"><span>(445)</span></p></li><li class="pr-histogram-4Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 4, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), true);return false" ><p class="pr-histogram-label"><span>4 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:9.714285714285714%">&nbsp;</div></div><p class="pr-histogram-count"><span>(51)</span></p></li><li class="pr-histogram-3Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 3, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), true);return false" ><p class="pr-histogram-label"><span>3 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:2.857142857142857%">&nbsp;</div></div><p class="pr-histogram-count"><span>(15)</span></p></li><li class="pr-histogram-2Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 2, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), true);return false" ><p class="pr-histogram-label"><span>2 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:1.7142857142857144%">&nbsp;</div></div><p class="pr-histogram-count"><span>(9)</span></p></li><li class="pr-histogram-1Stars "  onclick="POWERREVIEWS.display.filterReviewsByRating(this, 1, 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'), true);return false" ><p class="pr-histogram-label"><span>1 Stars</span></p><div class="pr-ratings-histogram-bar"><div class="pr-ratings-histogram-barValue" style="width:0.9523809523809524%">&nbsp;</div></div><p class="pr-histogram-count"><span>(5)</span></p></li></ul></div></div></div><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key" onclick="POWERREVIEWS.display.collapseReviewPointsPanel(this)"><div class="pr-attribute-label pr-attribute-label-pros"><p class="pr-attribute-label-text">Pros</p><div class="pr-attribute-collapse"></div><div class="pr-clear"></div></div></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list pr-snapshot-attribute-value-list"><li>Well built / quality&nbsp;(423)</li><li>Easy to use&nbsp;(393)</li><li>Convenient&nbsp;(384)</li><li>Attractive&nbsp;(379)</li><li>Compact&nbsp;(366)</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons"><div class="pr-attribute-key" onclick="POWERREVIEWS.display.collapseReviewPointsPanel(this)"><div class="pr-attribute-label pr-attribute-label-cons"><p class="pr-attribute-label-text">Cons</p><div class="pr-attribute-collapse"></div><div class="pr-clear"></div></div></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list pr-snapshot-attribute-value-list"><li>Difficult to clean&nbsp;(28)</li><li>Hard to use&nbsp;(13)</li><li>Too small&nbsp;(4)</li><li>Leaks&nbsp;(3)</li><li>No cons&nbsp;(3)</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key" onclick="POWERREVIEWS.display.collapseReviewPointsPanel(this)"><div class="pr-attribute-label pr-attribute-label-bestuses"><p class="pr-attribute-label-text">Best Uses</p><div class="pr-attribute-collapse"></div><div class="pr-clear"></div></div></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list pr-snapshot-attribute-value-list"><li>Gifts&nbsp;(166)</li><li>Travel&nbsp;(36)</li><li>Small kitchens&nbsp;(14)</li><li>Commuting&nbsp;(12)</li><li>Entertaining&nbsp;(9)</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-other-attributes"><ul class="pr-other-attributes-list"><li class="pr-clear"></li></ul></div><div id="pr-snapshot-footer-82477" class="pr-snapshot-footer" style="display:none"><a href="#" id="write-review-82477" class="pr-write-review-link" data-pr-event="snapshot-write-review"><div class="pr-snapshot-write-review"><span>Write a Review</span></div></a><div class="pr-clear"></div></div></div></div></div><div id="pr-review-sort" class="pr-review-sort"><div class="pr-review-sort-wrapper"><p id="pr-review-filtered-count" class="pr-review-count" style="display:none"></p><p id="pr-review-count" class="pr-review-count">Reviewed by 525 customers</p><div class="pr-review-sort-box"><label for="pr-sort-reviews" class="pr-review-sort-by">Sort by</label><select id="pr-sort-reviews" onchange="POWERREVIEWS.display.startSort(this, '82477', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US'));"><option value="date_new">Newest</option><option value="date_old">Oldest</option><option value="rating_high">Highest rating</option><option value="rating_low">Lowest rating</option><option value="helpful_high" selected="true">Most helpful</option><option value="helpful_low">Least helpful</option></select></div><div class="pr-clear"></div></div></div><!-- ilkj --><div id="pr-filters" class="pr-filters" style="display:none"><div class="pr-filters-wrapper"><div id="pr-filters-active" class="pr-filters-active"></div><div class="pr-filter-clear"><div class="pr-filter-label"><a href="#" onclick="POWERREVIEWS.display.clearFilters(null,  'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Clear all filters</a></div></div><div class="pr-clear"></div></div></div></div><div id="pr-contents-82477" class="pr-contents"><div class="pr-contents-wrapper"><div class="pr-pagination-top"><div class="pr-page-count-wrapper"><p class="pr-page-count">Displaying reviews <strong>1-10</strong></p><p class="pr-nav-back-to-top"><a href="#" name="pr-header-back-to-top-link" data-pr-event="header-back-to-top-link">Back to top</a></p></div><div class="pr-page-nav-wrapper"><p class="pr-page-nav"><span class="pr-page-prev">Previous Page</span><span class="pr-divider"> | </span><span class="pr-page-next"><a data-pr-event="header-page-next-link" onclick="POWERREVIEWS.display.getReviewsFromMeta(2, '82477', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;" href="#ReviewHeader">Next Page &raquo;</a></span></p></div><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="40661677"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">12/4/2013</div><div class="pr-review-most-helpful"><p>(<span>13 of 13</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">Stays HOT for 6-8 hrs</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>Bea</span></p><p class="pr-review-author-location">from <span>Florida</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Attractive Design</li><li>Compact</li><li>Convenient</li><li>Dishwasher Safe</li><li>Easy To Use</li><li>Quality Construction</li><li>Really Stays Hot All Day</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Slighty Small</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>CAMPING</li><li>In Car</li><li>On Boat</li><li>Work</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">I just brought 3 of these for gifts.  I have 10 travel cups/mugs in my cabinet but none of them work as good as this one. This  one really keeps your coffee piping hot for 6 to 8 hrs. But caution it is so hot you will burn your tongue.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>13 of 13</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('40661677', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('40661677', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('40661677', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div40661677" style=""></div><p class="pr-review-helpful-response" id="review_feedback40661677"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=40661677', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="26740460"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">6/20/2012</div><div class="pr-review-most-helpful"><p>(<span>10 of 15</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-1-sm" style="background-position: 0px -36px;" title="Not good">&nbsp;</div><span class="pr-rating pr-rounded">1.0</span><p class="pr-review-rating-headline">bad design</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>5.0driver</span></p><p class="pr-review-author-location">from <span>Naples Fl.</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Attractive Design</li><li>Compact</li><li>Dishwasher Safe</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-empty pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">The rubber stopper in the top gets wet and leaves the contents on the top of your nose while trying to take a drink. It propabaly doesn't leak but it does drip on your face while drinking.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>No, I would not recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>10 of 15</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('26740460', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('26740460', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('26740460', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div26740460" style=""></div><p class="pr-review-helpful-response" id="review_feedback26740460"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=26740460', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="45051181"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">5/16/2014</div><div class="pr-review-most-helpful"><p>(<span>8 of 8</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">It's True....</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>Robert</span></p><p class="pr-review-author-location">from <span>SE Florida</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Attractive Design</li><li>Compact</li><li>Convenient</li><li>Easy To Use</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-empty pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">I ordeered one for my sweetheart and then one for myself. This is one product that lives up to the hype. Keeps coffee hot for 12+ hours easily. NOT hard to clean at all. Sleek yet holds 16oz. I did recommend to a friend and she placed an order yesterday.....</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>8 of 8</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('45051181', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('45051181', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('45051181', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div45051181" style=""></div><p class="pr-review-helpful-response" id="review_feedback45051181"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=45051181', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="42546590"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">2/7/2014</div><div class="pr-review-most-helpful"><p>(<span>6 of 6</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">Nothing Compares</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>kenny s</span></p><p class="pr-review-author-location">from <span>Havertown Pa.</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Attractive Design</li><li>Compact</li><li>Convenient</li><li>Easy To Use</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-empty pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">This is the best commuter cup I have ever used. You can use it for either hot or cold and it does a fantastic job. In the summer I leave it in the hot car for hours and the ice tea stays cold. The outside of the container never sweats and the top is secure and easy to open and use. Recently purchased a few more as my wife could not find anything to keep her tea hot on the morning commute. Wonders why I did not get her one sooner. Use it all year round and am very happy with the way it keeps things hot and cold.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>6 of 6</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('42546590', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('42546590', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('42546590', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div42546590" style=""></div><p class="pr-review-helpful-response" id="review_feedback42546590"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=42546590', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="39794412"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">11/5/2013</div><div class="pr-review-most-helpful"><p>(<span>6 of 8</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-3-sm" style="background-position: 0px -108px;" title="Average, ordinary">&nbsp;</div><span class="pr-rating pr-rounded">3.0</span><p class="pr-review-rating-headline">Good but not the best</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>John</span></p><p class="pr-review-author-location">from <span>BC</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Doesn't Stew Coffee</li><li>Keeps Coffer Hot</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Difficult To Clean</li><li>Too Small For My Taste</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-empty pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">The cup keeps coffee hot and doesn't stew it but it has to many small pieces for easy cleaning.</p></div><div class="pr-review-footer"><div class="pr-review-most-helpful-bottom"><p>(<span>6 of 8</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('39794412', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('39794412', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('39794412', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div39794412" style=""></div><p class="pr-review-helpful-response" id="review_feedback39794412"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=39794412', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="26757667"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">6/21/2012</div><div class="pr-review-most-helpful"><p>(<span>6 of 6</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">Truly Best Commuter Cup</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>MawMaw D.</span></p><p class="pr-review-author-location">from <span>Lake Charles, LA</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Convenient</li><li>Easy To Use</li><li>Quality Construction</li><li>Spill-proof</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>None</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Gifts</li><li>Traveling to  from work</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">Granddaughter enjoying hot coffee all morning.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>6 of 6</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('26757667', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('26757667', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('26757667', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div26757667" style=""></div><p class="pr-review-helpful-response" id="review_feedback26757667"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=26757667', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="35918829"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">6/20/2013</div><div class="pr-review-most-helpful"><p>(<span>5 of 5</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-2-sm" style="background-position: 0px -72px;" title="Needs that special something">&nbsp;</div><span class="pr-rating pr-rounded">2.0</span><p class="pr-review-rating-headline">Not easy to drink from</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>upthedock</span></p><p class="pr-review-author-location">from <span>Ellicott City MD</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Attractive Design</li><li>Keeps Coffee Hot For Hour</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-empty pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">The one thing I do not like the lock on the lid rubs against your bottom lip.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>No, I would not recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>5 of 5</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('35918829', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('35918829', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('35918829', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div35918829" style=""></div><p class="pr-review-helpful-response" id="review_feedback35918829"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=35918829', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="35947878"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">6/21/2013</div><div class="pr-review-most-helpful"><p>(<span>4 of 4</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">It really is the best commuter mug!</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>Greylissy</span></p><p class="pr-review-author-location">from <span>Huntington Beach, CA</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Convenient</li><li>Easy To Use</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Everyday Use</li><li>Gifts</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">It keeps my coffee very hot for several hours.  I am  a coffee sipper so I really like that it stays hot  and I don't have to drink quickly. The design is nice. You can lock  it and not worry about leaking while in transit.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>4 of 4</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('35947878', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('35947878', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('35947878', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div35947878" style=""></div><p class="pr-review-helpful-response" id="review_feedback35947878"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=35947878', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="47246293"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">8/4/2014</div><div class="pr-review-most-helpful"><p>(<span>3 of 3</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">Hot product</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>connie the bird</span></p><p class="pr-review-author-location">from <span>Austin, Texas</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Compact</li><li>Convenient</li><li>Dishwasher Safe</li><li>Easy To Use</li><li>Fits In Car Holder</li><li>Stays Hot</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Gifts</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">This is the best commuter cup I have ever owned. It keeps your coffee hot for hours. I mean hot too. It is almost too hot. I will never buy anything else but this commuter cup. I am also going to give this as Christmas gifts. It is really a great product.</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>3 of 3</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('47246293', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('47246293', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('47246293', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div47246293" style=""></div><p class="pr-review-helpful-response" id="review_feedback47246293"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=47246293', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-review-wrap" data-review-id="44900959"><div class="pr-review-rating-wrapper"><div class="pr-review-author-date pr-rounded">5/10/2014</div><div class="pr-review-most-helpful"><p>(<span>3 of 3</span> customers found this review helpful)</p></div><div class="pr-review-rating"><div class="pr-stars pr-stars-small pr-stars-5-sm" style="background-position: 0px -180px;" title="Perfect. It doesn't get any better">&nbsp;</div><span class="pr-rating pr-rounded">5.0</span><p class="pr-review-rating-headline">Great product!</p></div></div>                  <div class="pr-review-author"><div class="pr-review-author-info-wrapper"><p class="pr-review-author-name">By&nbsp;<span>Noni</span></p><p class="pr-review-author-location">from <span>Knoxville, Tenn</span></p></div><div class="pr-review-author-badge-wrapper"><div class="pr-review-author-verified-buyer-wrapper pr-review-author-verified-buyer-en_US"><a href="javascript:POWERREVIEWS.common.showSmallPopup('http://www.powerreviews.com/legal/badge_definitions_en_US.html', 580, 460)"><img class="pr-badge pr-verified-buyer" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/badge_vp_en_US.gif" alt="Verified Buyer" title="Verified Buyer" /></a></div></div></div><div class="pr-review-main-wrapper"><div class="pr-review-points"><div class="pr-review-points-attr-wrapper"><div class="pr-attribute-group pr-rounded pr-attribute-pros"><div class="pr-attribute-key"><p class="pr-attribute-label-pros">Pros</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Best Thermos Ever</li><li>Convenient</li><li>Quality Construction</li></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-cons pr-empty"><div class="pr-attribute-key"><p class="pr-attribute-label-cons">Cons</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"></ul></div></div><div class="pr-attribute-group pr-rounded pr-attribute-bestuses pr-last"><div class="pr-attribute-key"><p class="pr-attribute-label-bestuses">Best Uses</p></div><div class="pr-attribute-value"><ul class="pr-attribute-value-list"><li>Great With Hot Liquids</li></ul></div></div><div class="pr-clear"></div></div></div><div class="pr-review-text"><p class="pr-comments-header">Comments:</p><p class="pr-comments">Thermos keeps liquids hot for very long time=a really important feature !!</p></div><div class="pr-review-footer"><div class="pr-review-bottom-line-wrapper"><p><span class="pr-review-bottom-line">Bottom Line</span> <span></span>Yes, I would recommend this to a friend</p></div><div class="pr-review-most-helpful-bottom"><p>(<span>3 of 3</span> customers found this review helpful)</p></div><div class="pr-review-tools"><p class="pr-review-helpful-text">Was this review helpful?&nbsp;<a data-pr-event="review-helpful-yes-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('44900959', 'helpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">Yes</a>&nbsp;/&nbsp;<a data-pr-event="review-helpful-no-link" class="pr-review-helpful-text-link" href="#" onclick="POWERREVIEWS.display.submitHelpfulVote('44900959', 'unhelpful', 'en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">No</a></p><p class="pr-review-report-issue"><span class="pr-review-report-issue-hyphen">&nbsp;-&nbsp;</span> <a href="#" data-pr-event="review-report-issue-link" class="pr-review-helpful-text-link" onclick="POWERREVIEWS.display.launchErrorDiv('44900959', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); return false;">flag this review</a></p><div class="pr-error" id="error_div44900959" style=""></div><p class="pr-review-helpful-response" id="review_feedback44900959"></p></div></div></div><div class="pr-clear"></div><p class="pr-fb-reviewComment"><span><a data-pr-event="review-fb-review-comment-link" href="#" onclick="POWERREVIEWS.common.showSmallPopup('http://services.powerreviews.com/FacebookReviewStatementController.dox?context=STATEMENT&locale=en_US&sharedReviewId=44900959', 450, 600, {'location':'no'}); return false;">Share this Review</a></span><img alt="Help Icon" class="pr-profile-fb-help-icon" src="http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/images/icon_orange_help.gif" title="Click here to write a comment and share this review with your friends on Facebook. Your comment and this review will show up in your Facebook News Feed." /></p><div class="pr-clear"></div></div><div class="pr-pagination-bottom"><div class="pr-page-count-wrapper"><p class="pr-page-count">Displaying reviews <strong>1-10</strong></p><p class="pr-nav-back-to-top"><a href="#" data-pr-event="footer-back-to-top-link">Back to top</a></p></div><div class="pr-page-nav-wrapper"><p class="pr-page-nav"><span class="pr-page-prev">Previous Page</span><span class="pr-divider"> | </span><span class="pr-page-next"><a data-pr-event="footer-page-next-link" onclick="POWERREVIEWS.display.getReviewsFromMeta(2, '82477', 'en_US', 'engine-82477-en_US', POWERREVIEWS.common.getOptions('engine-82477-en_US')); location.hash='#'; location.hash='#pr-header-back-to-top-link'; return (false);" href="#ReviewHeader">Next Page &raquo;</a></span></p></div><div class="pr-clear"></div></div></div></div></div><script type='text/javascript'>var POWERREVIEWS=(function(D){D.common=D.common||{};function A(o,U){var q=window,M=q.document,S=M.location,Y=null,p=encodeURIComponent||escape,x=decodeURIComponent||unescape,I=Object.prototype.toString,Q=10,G="__pr."+parseInt(o.merchantGroupId).toString(36),F=60*60*24*365*2,k="//t.powerreviews.com/t/v1.gif",j=t({event:"e",eventType:"et",userId:"uid",time:"t",locale:"l",merchantGroupId:"mgid",merchantId:"mid",pageId:"pid",siteId:"sid",pageUrl:"p",referrerUrl:"r",orderId:"oid",orderSubtotal:"os",orderNumberOfItems:"on",orderItems:"oi",merchantUserId:"muid",userEmail:"ue",userFirstName:"uf",userLastName:"ul",userFullName:"un",marketingOptIn:"mo"},o.parameterAbbreviations||{}),W="array",AB="boolean";function t(){var AD={},AF,AG;for(var AE=0,w=arguments.length;AE<w;AE++){for(AF in arguments[AE]){AG=arguments[AE][AF];if(AG!==U){AD[AF]=AG;}}}return AD;}function O(w){return w.replace(/([-.*+?^${}()|[\]\/\\])/g,"\\$1");}function J(AE){var w=AE;var AD=document.createElement("div");if(AE&&typeof AE==="string"){AE=AE.replace(/[<][s][c][r][i][p][t][^>]*>([\S\s]*?)<\/[s][c][r][i][p][t][>]/gmi,"");AE=AE.replace(/<\/?\w(?:[^"'>]|"[^"]*"|'[^']*')*>/gmi,"");AD.innerHTML=AE;AE=AD.textContent||AD.innerText;AD.textContent="";}if(AE===""||typeof AE==="undefined"||AE===null){return w;}return AE;}function L(w){var AD=M.cookie.match("(?:^|;)\\s*"+O(w)+"=([^;]*)");return(AD)?x(AD[1]):null;}function T(AE,AH,AF,AG){var AD=new Date(),w=AD;w.setTime(AD.getTime()+AF*1000);M.cookie=AE+"="+p(AH)+";expires="+w.toGMTString()+";path=/"+(AG?";domain="+AG:"");}function z(){return o.trackingPixelUrl||k;}function P(w){if(typeof w!=="object"){return typeof w;}if(w===null){return"null";}return I.call(w).match(/\[object\s(\w+)\]/)[1].toLowerCase();}function N(AD,w){return P(AD)===w;}function u(w){return w!==U&&w!==null&&w!==""&&w!==Number.NaN;}var d=[";",","];function b(AE,AF){var w=[],AD;AF=AF||0;if(N(AE,W)&&AF<d.length){for(AD=0;AD<AE.length;AD++){w.push(b(AE[AD],AF+1));}return w.join(d[AF]);}else{if(N(AE,AB)){return AE?"y":"n";}else{if(u(AE)){return p(J(x(AE)));}else{return"";}}}}function H(AG){var AE=[],AD,AF,w;for(AD in AG){AF=AG[AD];if(u(AF)){AE.push(p(j[AD]||AD)+"="+b(AF));}}return AE.join("&");}function f(w,AD){var AE=w;new Image().src=AE+"?"+H(AD);}function m(AF){var w=[];var AE=["r","a","n","d","o","m"].join("");for(var AD=0;AD<AF;AD++){w.push((Math[AE]()*36|0).toString(36));}return w.join("");}function X(){return((Date.now&&typeof Date.now()==="number")?Date.now():+new Date).toString(36);}function v(){return S.href;}function n(){return M.referrer;}function i(){var w=o.userTrackingDomain;w=w&&w.replace(/^\s+|\s+$/g,"");if(w){if(w.charAt(0)!=="."){w="."+w;}return w;}return null;}function AC(AD,AE,w){if(AD.addEventListener){AD.addEventListener(AE,w,false);}else{if(AD.attachEvent){AD.attachEvent("on"+AE,function(){w.call(AD);});}}}function K(AD,AE,w){if(AD.removeEventListener){AD.removeEventListener(AE,w,false);}else{if(AD.detachEvent){AD.detachEvent("on"+AE,w);}}}function R(AD){var AE=AD||window.event,w=false;if(AE.target){w=AE.target;}else{if(AE.srcElement){w=AE.srcElement;}else{w=document;}}if(w.nodeType==3){w=w.parentNode;}return w;}function s(w,AF,AE){var AD=w;while(AD&&AD!==AF.parentNode&&AD.nodeType!==9){if(AD.nodeType===1&&AE(AD)){return AD;}AD=AD.parentNode;}return false;}function e(AI){var AI=AI||document,AD=AI.documentElement,AF=AI.body,AH=window.pageYOffset||Math.max(AD.scrollTop,AF.scrollTop),AG=window.pageXOffset||Math.max(AD.scrollLeft,AF.scrollLeft),AE=Math.max(AD.clientWidth,AF.clientWidth),w=Math.max(AD.clientHeight,AF.clientHeight);return{top:AH,left:AG,bottom:AH+w,right:AG+AE,width:AE,height:w};}function h(AD,w){var AF=AD.left,AL=AD.top,AJ=w.left,AH=w.top,AE=AF+AD.width,AK=AL+AD.height,AI=AJ+w.width,AG=AH+w.height;if(AF<AJ){AF=AJ;}if(AL<AH){AL=AH;}if(AE>AI){AE=AI;}if(AK>AG){AK=AG;}return{top:AL,left:AF,bottom:AK,right:AE,height:AK-AL,width:AE-AF};}function l(AF){if(AF.offsetWidth===0||AF.offsetHeight===0){return false;}var w=e(),AE=AF.getBoundingClientRect(),AD={top:AE.top+w.top,bottom:AE.bottom+w.top,left:AE.left+w.left,right:AE.right+w.left,width:AE.right-AE.left,height:AE.bottom-AE.top};var AG=h(w,AD);if((AG.width*AG.height)/(AD.width*AD.height)<0.5){return false;}if(s(document.elementFromPoint((AE.left+AE.right)/2,(AE.top+AE.bottom)/2),AF,function(AH){return AH===AF;})){return true;}return false;}var a=[];var AA=false;function E(){var AD=0,AE;for(var w=0;w<a.length;w++){if(a[w]){AD++;AE=a[w]();if(AE){a[w]=false;}}}if(AD===0){clearInterval(AA);AA=false;a=[];K(window,"scroll",E);K(window,"resize",E);}}function r(){var w=L(G);if(!w){w=m(Q);}T(G,w,F,i());return w;}function Z(w,AD){g(w,t({pageUrl:v(),referrerUrl:n()},AD));}function g(AD,AF){var w=r();var AE={event:AD,id:m(Q),time:X(),userId:w,merchantGroupId:o.merchantGroupId};AE=t(AE,AF);if(o.delayFire==="true"||AE.delay==="true"){if(AE.delay){delete AE.delay;}if(M.readyState==="complete"){f(z(),AE);return ;}if(q.addEventListener){q.addEventListener("load",function(){f(z(),AE);},false);}else{if(q.attachEvent){q.attachEvent("onload",function(){f(z(),AE);});}}}else{if(AE.delay){delete AE.delay;}f(z(),AE);}Y=AF;}function c(AE,AG,AH){var AD=N(AE,W)?AE:[AE],AF="data-pr-event";function AI(AM){var AK=R(AM);var AJ=s(AK,this,function(AN){return AN&&AN.getAttribute(AF);});if(AJ){var AL=AJ.getAttribute(AF);Z(AG,t({eventType:AL},AH));}}for(var w=0;w<AD.length;w++){AC(AD[w],"click",AI);}}function y(AD,AE,AG){if(N(AD,W)){for(var w=0;w<AD.length;w++){y(AD[w],AE,AG);}}else{var AF=function(){if(l(AD)){Z(AE,AG);return true;}return false;};if(!AF()){a.push(AF);if(!AA){AA=setInterval(E,1000);AC(window,"scroll",E);AC(window,"resize",E);}}}}function V(){var w=t(Y,o);var AE=w.orderItems;var AF=function(){var AH=[];var AI=AE[0];if(AE.length>0){AE.map(function(AJ,AL){var AM=AJ.slice(-1)[0];var AK=parseFloat(AM);AH.push(AK);var AN=AH[(AL-1)];if(AK>AN){AI=AJ;}});}return AI;};var AD={singleOrderitem:AF(),page_id:AF()[0],page_id_variant:AF()[1]};var AG=t(AD,w);return AG;}return{trackEvent:g,getConfig:V,trackPageview:Z,trackClickEvents:c,trackVisibility:y,isElementVisible:l,getUID:r};}if(window.document&&window.location){var C={delayFire:"false",merchantGroupId:15153,userTrackingDomain:"",trackingPixelUrl:"//t.powerreviews.com/t/v1.gif",parameterAbbreviations:{reviewCount:"rc",starRating:"s",inlineSEO:"i",engineVersion:"v",questionCount:"qc",answerCount:"ac",visible:"vis",synMerchantId:"symid",synSharedReviewIds:"sysrids",synReviewsOnPageCount:"syropc"}};var B=A(C);D.tracker={getUID:B.getUID};}D.common.trackEvent=B.trackEvent;D.common.trackPageview=B.trackPageview;D.common.trackClickEvents=B.trackClickEvents;return D;}(POWERREVIEWS||{}));POWERREVIEWS.common.trackPageview('rd',{et:'inline',l:'en_US',pid:'82477',v:'2',rc:525,ropc:10,srids:[40661677,26740460,45051181,42546590,39794412,26757667,35918829,35947878,47246293,44900959],s:4.8,delay:false,i:true});</script> <script type='text/javascript' src='http://cdn.powerreviews.com/repos/15153/pr/pwr/engine/js/full.js'></script> <script type='text/javascript'> var pr_locale= 'en_US'; var pr_merchant_group_id = '15153';  var pr_style_sheet= 'http://www.hammacher.com/css30/review_display_override.css'; </script> <script type='text/javascript'>POWERREVIEWS.display.engine (document,{pr_page_id :'82477', pr_write_review : 'http://www.hammacher.com/editorial/reviews.aspx?pr_page_id=82477'}); </script> <script type='text/javascript'>POWERREVIEWS.display.snippet(document,{pr_page_id : '82477',pr_write_review :'http://www.hammacher.com/editorial/reviews.aspx?pr_page_id=82477', pr_read_review : '#ReviewHeader' }); </script> 
+            </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+
+</div>
+    <div id="dialog_win" class="hidden">
+    </div>
+<script language="JavaScript" src="http://chanalytics.merchantadvantage.com/inchannel/maq.js">
+</script>
+
+    </div>
+    <div class="footer_container">    
+    
+        
+<!--start our footer container-->
+<div class="footer_catalog">
+ <div id="ctl00_FooterPlaceHolder_FooterControl_footerContent" class="footer_content">
+   <ul class="customer_service">
+		    <li><h3>Customer Service</h3></li>
+			<li><a href="/Editorial/Contact-Us?promo=ft_cs_contact">Contact Us</a></li>
+			<li><a href="/Editorial/Lifetime-Guarantee?promo=ft_hs_guarantee">Lifetime Guarantee</a></li>
+			<li><a href="/Editorial/Shipping-Services?promo=ft_cs_ship">Shipping &amp; Services</a></li>
+			<li><a href="/OrderStatus/Default.aspx?promo=ft_cs_order_track">Order Tracking</a></li>
+			<li><a href="/Editorial/Returns-Exchanges?promo=ft_cs_returns">Returns &amp; Exchanges</a></li>
+			<li><a href="/Editorial/Privacy-Policy?promo=ft_cs_privacy">Privacy Policy</a><span style="color:#FFF"> &amp; </span>
+			<a href="/Editorial/Recalls?promo=ft_cs_recalls">Recalls</a>
+			</li>
+			<li><a href="/Editorial/Accessibility">Accessibility</a></li>
+		</ul>
+	    <ul class="ways_to_shop">
+			<li><h3>More Ways to Shop</h3></li>
+			<li><a href="/CatalogQuickOrder/?promo=ft_cs_cat_req">Catalog Quick Order</a></li>
+			<li><a href="/OnlineCatalog/?promo=ft_cs_online_cat">Shop Online Catalog</a></li>
+			<li><a href="/Editorial/Landmark-NY-Store?promo=ft_cs_ny">Landmark New York Store</a></li>
+			<li><a href="/Category/Canada-Duty-Free?promo=ft_cl_ca_duty_free">Canadian Duty Free</a></li>
+			<li><a href="/Editorial/Corporate-Gifts-Incentives?promo=ft_hs_corp_gift">Corporate Gifts &amp; Incentives</a></li>
+			<li><a href="/Product/Gift-Certificate-200?promo=ft_cl_gift_cert">Gift Certificates</a></li>		
+		</ul>
+		<ul class="explore">
+			<li><h3>Explore Hammacher</h3></li>
+			<li><a href="/CatalogRequest/Default.aspx?cl=1&amp;el=0&amp;promo=ft_cl_cat_req">Request a Catalog</a></li>
+			<li><a href="/Editorial/Since-1848?promo=ft_hs_history">America's Oldest Catalog</a></li>
+			<li><a href="/History/default.aspx?promo=ft_history">Interactive History Timeline</a></li>
+			<li><a href="/Editorial/Hammacher-Schlemmer-Institute?promo=ft_hs_institute">Hammacher Schlemmer Institute</a></li>
+			<li><a href="/Editorial/Careers?promo=ft_hs_career">Careers</a></li>
+			<li><a href="/Editorial/Press-Releases?promo=ft_hs_press">Press Releases</a></li>
+			<!--<li><a href="/Editorial/Vendors-Inventors?promo=ft_hs_vendor">Vendors &amp; Inventors</a></li>-->	
+		</ul>
+		<ul class="connect">
+			<li><h3>Connect With Us</h3></li>
+			<li><a href="https://www.facebook.com/hammacherschlemmer" target="_blank"><img src="/images30/social/facebook_16.png" width="16" height="16" />Like us on Facebook</a></li>
+            <li><a href="http://pinterest.com/hammacher/" target="_blank"><img src="/images30/small-p-button.png" width="16" height="16" />Follow us on Pinterest</a></li>
+            <li><a href="https://www.youtube.com/user/hammacherschlemmerco" target="_blank"><img src="/images30/youtube_16.png" width="16" height="16" />Follow us on YouTube</a></li>   
+			<li><a href="http://twitter.com/#!/hammacher" target="_blank"><img src="/images30/social/twitter_16.png" width="16" height="16" />Follow us on Twitter</a></li>
+			<li><a href="http://blog.hammacher.com " target="_blank"><img src="/images30/social/blog_16.png" width="16" height="16" />Visit our Blog</a></li>
+		</ul>
+		<ul class="subscribe">
+			<li><h3>Subscribe</h3>         
+<script type="text/javascript" language="javascript">
+function clj() {var o = document.getElementById('ctl00_FooterPlaceHolder_FooterControl_JoinEmailTextBoxControl_emailAddressTextBox');if(o.value==o.defaultValue){o.value=""}}
+</script>
+ <div id="ctl00_FooterPlaceHolder_FooterControl_JoinEmailTextBoxControl_joinEmailPanel">
+	
+    <span class="join_email_input" style="font-size:12px;color:#fff;">Sign Up for Email Updates</span><br />
+    <input name="ctl00$FooterPlaceHolder$FooterControl$JoinEmailTextBoxControl$emailAddressTextBox" type="text" value="Enter your email address" maxlength="128" id="ctl00_FooterPlaceHolder_FooterControl_JoinEmailTextBoxControl_emailAddressTextBox" title="Enter your email address to join the mailing list" class="email_input" onClick="javascript:clj();" />
+    <input type="image" name="ctl00$FooterPlaceHolder$FooterControl$JoinEmailTextBoxControl$joinEmailSubmit" id="ctl00_FooterPlaceHolder_FooterControl_JoinEmailTextBoxControl_joinEmailSubmit" class="footer_submit_request" src="/images30/newsletter/join_button.png" border="0" />
+   
+</div></li>
+			<li>
+			  <a id="ctl00_FooterPlaceHolder_FooterControl_tblPayPalLogo" style="cursor:pointer" onclick="javascript:window.open(&#39;https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside&#39;,&#39;olcwhatispaypal&#39;,&#39;toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=800, height=600&#39;);return false;">
+			  <img  src="/Images30/payment_options/paypal.png" border="0" alt="Additional Options" /></a>
+		    
+		
+			</li>
+		</ul>
+		
+	</div><!-- /footer_content -->
+		
+
+	<p class="copyright">COPYRIGHT &copy; 2016 HAMMACHER SCHLEMMER &amp; COMPANY, INC. ALL RIGHTS RESERVED.&nbsp;W101<br />HAMMACHER SCHLEMMER &bull; 147 E. 57th ST &bull; NEW YORK, NY &bull; 10022 &bull; 1-800-<span style="display:none;">_</span>321-1484</p>
+
+	
+</div><!-- /footer_catalog -->
+
+          
+    </div>  
+    </div>         
+    </form>
+    
+    
+    
+    
+            <!-- TAG MANAGEMENT UNIVERSAL VARIABLE -->
+            <script type="text/javascript">
+            
+            window.universal_variable = {  
+                "version" : "1.1.1", 
+                  
+                "page": {  
+                    "category": "Product",  
+                    "subcategory": "",  
+                    "environment": "production"  
+                } ,  
+                "user" : { } , 
+                "basket": { 
+                    "currency": "USD",
+                    "subtotal": 0, 
+                    "total" : 0,
+                    "tax" : 0,
+                    "line_items" : [  ]
+                  }, 
+                        "product": { 
+                            "id": "82477",  
+                            "url": "http://www.hammacher.com/Product/Default.aspx?sku=82477",  
+                            "name": "The Best Commuter Cup.",  
+                            "sku_code": "82477",  
+                            "description": "The Best model&#39;s spill-proof lid opens with the touch of a button to allow ease of drinking, and its handleless, slim design fits in a car&#39;s cup holder. Hot water was poured into each model and The Best Commuter Cup allowed the water to decrease in temperature by only 18 F after two hours, unlike lesser models that lost up to 71 F. The Best model kept ice cubes frozen for 36 hours, while other commuter cups allowed ice to melt in six hours. The commuter cup&#39;s superior temperature retention is due to its dual-wall design and vacuum insulation that also prevent heat- or cold- transfer to the exterior. The Best Commuter Cup was easy to clean because of its removable lid and nonporous interior. Champagne or Blue. 16-oz. capacity. 9&quot; H x 2 1/2&quot; W. (17 oz.)",  
+                            "category": "Home-Living",  
+                            "subcategory": "Kitchen-Entertaining",  
+                            "currency": "USD",  
+                            "unit_price": 34.95,  
+                            "unit_sale_price": 34.95  
+                        } 
+            } 
+            </script>
+            <!-- END OF TAG MANAGEMENT -->                
+            
+    
+<!-- SiteCatalyst code version: H.15.1.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript" type="text/javascript" src="/scripts30/s_code.js"></script>
+
+<script language="JavaScript" type="text/javascript"><!--
+
+s.pageName="82477";
+s.server="W101";
+s.channel="Product";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="Product";
+s.prop6="";
+s.prop7="";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="ProdView,event2";
+s.products=";82477";
+s.purchaseID="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+s.eVar6="";
+s.eVar7="";
+s.eVar8="";
+s.eVar9="";
+s.eVar10="";
+s.eVar11="";
+s.eVar12="Warehouse";
+s.eVar13="";
+s.eVar14="";
+s.eVar15="";
+s.eVar16="";
+s.eVar17="";
+s.eVar18="W101";
+s.eVar19="";
+s.eVar20="";
+s.eVar21="";
+s.eVar22="";
+s.eVar23="";
+s.eVar24="50.233.26.214";
+s.eVar25="D=User-Agent";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://bgehammacherprod.112.2O7.net/b/ss/bgehammacherprod/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->       
+    
+    
+        <script language="JavaScript" src="//d3c3cq33003psk.cloudfront.net/opentag-74358-619753.js" async defer></script>
+        
+</body>
+</html>

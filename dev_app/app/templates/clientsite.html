@@ -1,0 +1,32 @@
+
+<html>
+<link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>
+
+<form action="{{ url_for('clientsite') }}" method=post>
+<div id="form-group" style="padding-bottom:10px">
+  <label for="edit">Edit Page</label>
+		<textarea class="form-control" rows="10" name="update-html">{{ client }}</textarea>
+</div>
+<button id="save" class="btn btn-success" type="submit" value=1>Update Page</button>
+
+</form>
+
+{{ client|safe }}
+
+
+</html>

@@ -1,0 +1,2 @@
+try{var params=window.location.search.substring(1).split("&");var h,t=0;for(var i=0,l=params.length;i<l;++i){var parts=params[i].split("=");switch(parts[0]){case"h":h=parseInt(parts[1]);break;case"t":t=parseInt(parts[1]);break;}}parent.parent.POWERREVIEWS.submission.updateIframe(h,t);}catch(ignore){}
+// BRANCH:origin/master SHA:8376a4234f4e6c37176060e88ad325824ba89ba5

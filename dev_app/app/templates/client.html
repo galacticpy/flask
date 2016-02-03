@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Client Page</title>
+		<link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+
+</head>
+<body>
+	
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>
+
+
+<script type="text/javascript" src={{ fulljs }}></script>
+
+<div class="pr_snippet_category">
+	<script type="text/javascript">
+	var pr_locale= "en_US";
+	var pr_snippet_min_reviews=1;
+	var pageid = "{{ pageid }}";
+	var pr_zip_location="{{ location }}";
+	POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
+	</script>
+	<br>
+	<a href="http://machoman.heroku.com/review.html?pr_page_id={{ pageid }}">Write A Review</a>
+</div>  
+
+
+<script type="text/javascript">POWERREVIEWS.display.engine (document,{ pr_page_id : "{{ pageid }}"  });</script>
+  
+  
+    
+</body>
+</html> 

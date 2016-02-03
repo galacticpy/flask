@@ -1,0 +1,80 @@
+
+<head>
+<script type="text/javascript">
+var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css";
+</script>
+<link rel="stylesheet" type="text/css" href="static/css/bootstrap.css">
+
+<script type="text/javascript" async="aysnc" defer="defer" src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="http://cdn.powerreviews.com/repos/47420/pr/pwr/engine/js/full.js"></script>
+<!--<script type="text/javascript" src="static/ulta/pwr/engine/js/full.js"></script><!--Enable to test client issues-->
+</head>
+
+<nav class="navbar navbar-default navbar-static-top">
+
+        <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        
+        <li><a href="clientsite">Client</a></li>
+        <li><a href="getclient">Test Client</a></li>
+    </ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="feedchecker.html">Run Feed Checker</a></li>
+        <li><a href="products.html">Dummy Products</a></li>
+        <li><a href="static/datafile.txt">Data File</a></li>
+	</ul>
+
+</nav>
+
+{% for item in range(0,rl) %}
+	{% if pageid == page_id[item] %}
+	<div class="product">
+		<div class="basic_info">
+			<h1>{{ name[item] }}</h1>
+			<div class="pr_snippet_category">
+				<script type="text/javascript">
+				var pr_snippet_min_reviews=1;
+				var pageid = '{{ page_id[item] }}'
+				//var pr_zip_location="static/ulta"; //Enable to test client issues
+				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid }); //Enable to test client issues
+				</script>
+				<br>
+				<a href="http://machoman.herokuapp.com/review.html?pr_page_id={{page_id[item]}}">Write A Review</a>
+				<!--<a href="http://localhost:5000/review.html?pr_page_id={{page_id[item]}}">Write A Review</a>--><!--Stage-->
+			</div>
+			<br>		
+			<span><img src="{{ image_url[item] }}" width="200px" height="200px"/>
+			
+			
+			<p>{{ description[item] }}</p>
+		</div>
+		<div class="details">
+		<ul>
+			<li>name: {{ name[item] }}</li> 
+			<li>page_id: {{ pageid }}</li>
+		
+			<li>product_url: {{ product_url[item] }}</li>
+			<li>brand: {{ brand[item] }}</li>
+			<li>image_url: {{ image_url[item] }}</li>
+			<li>price: {{ price[item] }}</li>
+			
+			
+			
+			
+		</ul>
+		</div>
+		<div class="pr_review_summary">
+			<script type="text/javascript">
+			var pageid = '{{ page_id[item] }}'
+			POWERREVIEWS.display.engine(document, { pr_page_id : pageid });
+			</script>
+		</div>
+	</div>
+	{% endif %}
+	
+{% endfor %}
+
+
+
+

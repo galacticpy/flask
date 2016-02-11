@@ -3,3 +3,8 @@ create table edits (
   content text not null,
   active integer not null
 );
+
+create table posts (
+  id integer primary key autoincrement,
+  html text not null
+);

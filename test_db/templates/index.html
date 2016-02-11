@@ -1,35 +1,27 @@
-
-<html lang="en">
-
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <title>Test Postgresql</title>
-    <meta name="generator" content="Bootply" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
-</head>
-
-<body>
-  <center><h2>Enter Email</h2></center>
-
-                <form class="col-lg-12" action="{{url_for('prereg')}}" method="POST">
-                    <div class="input-group" style="width:340px;text-align:center;margin:0 auto;">
-                        <input class="form-control input-lg" title="testpostgresql" placeholder="Enter your email address" type="email" name="email">
-                        <span class="input-group-btn"><button class="btn btn-lg btn-primary" type="submit">GO</button></span>
-                    </div>
-                </form>
-
-
-    <!-- script references -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
-</body>
-
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <link rel= "stylesheet" type= "text/css" href="static/css/styles.css">
+        <title>Marge</title>
+    </head>
+    <body>
+        <nav class="navbar navbar-inverse navbar-static-top">
+                <ul class="nav navbar-nav navbar-left">
+                    <li><a href="/">Home</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="edit">Edit</a></li> 
+                    <li><a href="services">Services</a></li>
+                    <li><a href="projects">Projects</a></li>
+                    <li><a href="contactus">Contact Us</a></li> 
+                </ul> 
+        </nav>
+        {% block body %}
+        {% endblock %}
+    </body>
+    <div class="footer">
+    </div>
 </html>

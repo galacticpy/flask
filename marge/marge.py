@@ -94,9 +94,21 @@ def edit():
     except:
         return render_template('edit.html')
 
-@app.route('/services')
+@app.route('/services', methods=['GET', 'POST'])
 def services():
-    return render_template('services.html')
+    if request.method == 'POST':
+        g.db.execute('insert into posts (html) values (?)', [request.form['html']])
+        g.db.commit()
+        get = g.db.execute('SELECT html FROM posts order by id desc')
+        html = [dict(html=row[0]) for row in get.fetchall()]
+        return render_template('services.html', html=html)
+    try:
+        get = g.db.execute('SELECT html FROM posts order by id desc')
+        html = [dict(html=row[0]) for row in get.fetchall()]
+        return render_template('services.html', html=html)
+    except:
+        return render_template('services.html')
+    
 @app.route('/projects')
 def projects():
     return render_template('projects.html')

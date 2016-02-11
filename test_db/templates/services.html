@@ -2,13 +2,13 @@
 {% block body %}
 <h1>Madison Posts</h1>
 
-
+<ul>
 {% for item in html %}
-
+<li>
 {{ item.html|safe }}
-
+</li>
 {% endfor %}
-
+</ul>
 
 </br>
 

@@ -2,39 +2,41 @@ from flask import Flask, render_template, request
 from flask.ext.sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://localhost/test-db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///test_db'
 db = SQLAlchemy(app)
 
 # Create our database model
-class User(db.Model):
-    __tablename__ = "users"
+class Posts(db.Model):
+    __tablename__ = "Posts"
     id = db.Column(db.Integer, primary_key=True)
-    email = db.Column(db.String(120), unique=True)
+    html = db.Column(db.Text(), unique=True)
 
-    def __init__(self, email):
-        self.email = email
+    def __init__(self, html):
+        self.html = html
 
     def __repr__(self):
-        return '<E-mail %r>' % self.email
+        return '<Posts %r>' % self.html
 
 # Set "homepage" to index.html
 @app.route('/')
 def index():
     return render_template('index.html')
 
-# Save e-mail to database and send to success page
-@app.route('/prereg', methods=['POST'])
-def prereg():
-    email = None
+@app.route('/services', methods=['GET', 'POST'])
+def services():
     if request.method == 'POST':
-        email = request.form['email']
-        # Check that email does not already exist (not a great query, but works)
-        if not db.session.query(User).filter(User.email == email).count():
-            reg = User(email)
-            db.session.add(reg)
-            db.session.commit()
-            return render_template('success.html')
-    return render_template('index.html')
+        html = request.form['html']
+        reg = Posts(html)
+        db.session.add(reg)
+        db.session.commit()
+        html = db.session.query(Posts)
+        return render_template('services.html', html=html)
+    try:
+        html = db.session.query(Posts)
+        return render_template('services.html', html=html)
+    except:
+        return render_template('services.html')
+
 
 if __name__ == '__main__':
     app.debug = True

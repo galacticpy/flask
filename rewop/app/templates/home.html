@@ -1,0 +1,31 @@
+{% extends "index.html" %}
+{% block body %}
+
+<ul>
+{% for value in response %}
+<li>{{ value }}: {{ response[value] }}</li>
+{% endfor %}
+</ul>
+
+
+<div class="container">
+<form action="{{ url_for('index') }}" method=post>
+  <fieldset class="form-group">
+    <label for="pr-key">API Key</label>
+    <input type="text" class="form-control" name="pr-key" placeholder="Enter Client API Key" required="required">
+    <small class="text-muted">Enter the API Key for the merchant group.</small>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="pr-pageid">Page ID</label>
+    <input type="text" class="form-control" name="pr-pageid" placeholder="Enter Page ID" required="required">
+    <small class="text-muted">Enter the pr_page_id to write a review.</small>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="pr-merchant">Merchant ID</label>
+    <input type="text" class="form-control" name="pr-merchant" placeholder="Enter the Merchant ID" required="required">
+    <small class="text-muted">Enter the pr_merchant_id to write a review.</small>
+  </fieldset>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
+{% endblock %}

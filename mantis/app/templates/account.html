@@ -1,0 +1,24 @@
+{% extends "index.html" %}
+{% block body %}
+<h1>{{ firstname }} {{ lastname }}</h1>
+<span id="user-id"><h5>User ID: {{ userid }}</h5></span>
+<span id="username-created"><h5>Username: {{ username }}</h5></span>
+<span id="first-name"><h5>First Name: {{ firstname }}</h5></span>
+<span id="last-name"><h5>Last Name: {{ lastname }}</h5></span>
+<span id="email-address"><h5>Email Address: {{ email }}</h5></span>
+<span id="email-address"><h5>Bar Type: {{ mantis_option }}</h5></span>
+<form action="{{ url_for('account') }}" method=post class="form-inline">
+<div class="mantis-bar-option">
+  <label for="mantis-options">Select Bar Type</label>
+  <dd><select class="form-control" name="mantis-option" id="mantis-option" style="width:20%">
+    <option value=0>Select Bar Type</option>
+    <option value=1>Sports Bar</option>
+    <option value=2>Pub</option>
+  </select>
+</div>
+
+<button class="btn btn-success" name=mantis-submit type=submit>Save</button>
+
+</form>
+
+{% endblock %}

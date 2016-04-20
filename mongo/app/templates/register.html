@@ -1,0 +1,42 @@
+{% extends "index.html" %}
+{% block body %}
+
+{% if registered %}
+<span id="welcome"><h3>Account Successfully Created!</h3></span>
+{% endif %}
+
+{% if not login_status %}
+<div id="register-form" style="display:none">
+	<form action="{{ url_for('register') }}" method=post class="form-inline">
+		<center>
+			{% if username_exists %}
+			User Exists
+			{% endif %}
+			<dd>Manager: <input type=radio name=manager-register id=manager-register value=register_manager>
+			Employee: <input type=radio name=employess-register id=employee-register value=register_employee>
+			</input>
+			<dd><input class="form-control" type=text name=first_name placeholder="First Name">
+			<dd><input class="form-control" type=text name=last_name placeholder="Last Name">
+			<dd><input class="form-control" type=email name=email_address placeholder="Email Address">
+			<dd><input class="form-control" type=text name=username-register placeholder="Create Username">
+			<dd><input class="form-control" type=password name=password-register placeholder="Create Password">
+			<dd><button class="btn btn-primary" name=submit-register type=submit value=register>Register</button>
+		</center>
+	</form>
+</div>
+<div id="login-form" style="display:block">
+	<form action="{{ url_for('login') }}" method=post class="form-inline">
+		<center>
+			{% if invalid_password %}
+			Invalid Password
+			{% endif %}
+			<dd><input class="form-control" type=text name=username-login placeholder="Username">
+			<dd><input class="form-control" type=password name=password-login placeholder="Password">
+			<dd><button class="btn btn-primary" name=submit-login type=submit value=login>Login</button>
+			<dd><a href="#" name="show-register" onclick="document.getElementById('register-form').style.display='block', document.getElementById('login-form').style.display='none'">Register</a>
+		</center>
+	</form>
+</div>
+{% endif %}
+    
+{% endblock %}

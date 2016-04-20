@@ -1,0 +1,92 @@
+{% extends "index.html" %}
+{% block body %}
+{% if login_status %}
+<button id="show-available" name="show-available" class="btn btn-default">Available</button>
+<button id="show-requests" name="show-requests" class="btn btn-default">My Requests</button>
+<button id="show-accepted" name="show-accepted" class="btn btn-default">Accepted</button>
+{% for brigade in brigade_requests %}
+{% if brigade["brigade_requester_id"] != brigade_user_id and brigade["brigade_status"] == "False" %}
+<div class="brigade-available" style="display:none">
+<h3>Available Shifts</h3>
+<ul>
+<li>{{ brigade["brigade_id"] }}</li>
+<li>{{ brigade["brigade_date"] }}</li>
+<li>{{ brigade["brigade_start_time"] }}</li>
+<li>{{ brigade["brigade_end_time"] }}</li>
+</ul>
+<form action="{{ url_for('brigade') }}" method=post class="form-inline">
+<button class="btn btn-success" name=submit-brigade type=submit value={{ brigade["brigade_id"]+".True" }}>Accept</button>
+</form>
+<!--
+<button id="brigade-previous" class="btn btn-default">Previous</button>
+<button id="brigade-next" class="btn btn-default">Next</button>
+-->
+</div>
+
+{% elif brigade["brigade_requester_id"] == brigade_user_id %}
+<div class="brigade-requests" style="display:none">
+<h3>My Sent Requests</h3>
+<ul>
+<li>{{ brigade["brigade_id"] }}</li>
+<li>{{ brigade["brigade_date"] }}</li>
+<li>{{ brigade["brigade_start_time"] }}</li>
+<li>{{ brigade["brigade_end_time"] }}</li>
+</ul>
+
+<form action="{{ url_for('brigade') }}" method=post class="form-inline">
+{% if brigade["brigade_status"] == "True" %}
+<button class="btn btn-danger" name=submit-brigade type=submit disabled>Cancel</button>
+{% elif brigade["brigade_status"] == "False" %}
+<button class="btn btn-danger" name=submit-brigade type=submit value={{ brigade["brigade_id"]+".False" }}>Cancel</button>
+{% endif %}
+</form>
+</div>
+{% elif brigade["brigade_accepter_id"] == brigade_user_id and brigade["brigade_status"] == "True" %}
+<div class="brigade-accepted" style="display:none">
+<h3>Accepted Requests</h3>
+<ul>
+<li>{{ brigade["brigade_id"] }}</li>
+<li>{{ brigade["brigade_date"] }}</li>
+<li>{{ brigade["brigade_start_time"] }}</li>
+<li>{{ brigade["brigade_end_time"] }}</li>
+</ul>
+<form action="{{ url_for('brigade') }}" method=post class="form-inline">
+<button class="btn btn-danger" name=submit-brigade type=submit value={{ brigade["brigade_id"]+".False" }}>Cancel</button>
+</form>
+</div>
+{% endif %}
+<script>
+$(document).ready(function(){
+    
+    var count = 0
+    $('#show-available').click(function() {
+    $('.brigade-available').show()
+    /*$('.brigade-available').not(':eq(0)').hide();*/
+    $('.brigade-requests').hide();
+    $('.brigade-accepted').hide();
+
+});
+    
+    $('#show-requests').click(function() {
+    $('.brigade-requests').show();
+    $('.brigade-available').hide();
+    $('.brigade-accepted').hide();
+
+});
+    
+    $('#show-accepted').click(function() {
+    $('.brigade-accepted').show();
+    $('.brigade-available').hide();
+    $('.brigade-requests').hide();
+
+});
+    
+});
+
+
+</script>
+
+{% endfor %}
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "index.html" %}
+{% block body %}
+
+{% if login_status and username %}
+<span id="welcome"><h3>Hi {{ username }}!!</h3></span>
+{% endif %}
+
+{% if login_status and not brigade_request_post %}
+<center><h3>Request Brigade</h3></center>
+<div id="request-brigade" style="display:block">
+<form action="{{ url_for('brigade_request') }}" method=post class="form-inline">
+	<center>
+	  <dt>Date:
+	  <dd><input class="form-control" type=date name=brigade-date>
+      <dt>Start Time:
+      <dd><input class="form-control" type=time name=brigade-starttime>
+      <dt>End Time:
+      <dd><input class="form-control" type=time name=brigade-endtime>
+	  <div style="padding-top:10px">
+      <dd><button class="btn btn-primary" name=submit-brigade type=submit value=brigade>Request</button>
+</form>
+</div>
+{% else %}
+{{ brigade_date }}
+{{ brigade_starttime }}
+{{ brigade_endtime }}
+{% endif %}
+
+{% endblock %}

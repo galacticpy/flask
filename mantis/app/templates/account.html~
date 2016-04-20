@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block body %}
+<span id="user-id"><h5>User ID: {{ userid }}</h5></span>
+<span id="first-name"><h5>First Name: {{ firstname }}</h5></span>
+<span id="last-name"><h5>Last Name: {{ lastname }}</h5></span>
+<span id="email-address"><h5>Email Address: {{ email }}</h5></span>
+<span id="username-created"><h5>Username: {{ username }}</h5></span>
+<span id="password-creatd"><h5>Password: {{ password }}</h5></span>
+{% endblock %}

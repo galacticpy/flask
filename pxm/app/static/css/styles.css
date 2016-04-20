@@ -1,0 +1,58 @@
+#about-me {
+  background:#e1e1ea;
+}
+
+#home-page {
+background: url(../images/home_background.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.welcome {
+	text-align:center;
+}
+
+.profile-image {
+	height: 50%;
+	width: 50%;
+}
+
+#home-display {
+    height: 10em;
+    position: relative 
+}
+
+#home-display {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+
+#home-logo {
+	font-family: courier;
+	text-decoration: none;
+	color: white;
+	font-size:60px;
+}
+
+#home-title {
+	font-family: courier;
+	text-decoration: none;
+	color: white;
+	font-size:35px;
+	text-align: center;
+}
+
+#home-text {
+	font-family: courier;
+	text-decoration: none;
+	color: white;
+	background: black;
+	font-size:18px;
+}
+

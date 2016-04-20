@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        <link rel= "stylesheet" type= "text/css" href="static/css/styles.css">
+        <title>MongoDB</title>
+    </head>
+    <body>
+	<div class="container">
+        <nav class="navbar navbar-inverse navbar-static-top">
+                <ul class="nav navbar-nav navbar-left">
+                    <li><a href="/">Home</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    {% if not login_status %}
+                    <li><a href="account">Login</a></li>
+                    {% endif %}
+                    {% if login_status %} 
+		    <li><a href="account">My Account</a></li>
+		    <li><a href="logout">Log Out</a></li>
+                    {% endif %}
+                </ul> 
+        </nav>
+	</div>
+        {% block body %}
+        {% endblock %}
+    </body>
+    <div class="footer">
+    </div>
+</html>

@@ -1,0 +1,42 @@
+{% extends "index.html" %}
+{% block body %}
+<body id="about-me">
+
+<div class="container-fluid">
+	<div class="row">
+	  <div class="col-xs-12 col-sm-6 col-md-8">
+		<h1>Daniel Kennedy</h1>
+		<h4>Python Web Developer</h4>
+		<img class="profile-image" src="static/images/Kennedy.jpg" style="float:left">
+	  </div>
+	</div>
+<div class="row">
+ <div class="col-xs-12 col-sm-6 col-md-8">
+	<div class="profile-about">
+	<h1>About Me</h1>
+	<p>I am a web developer with experience developing
+	search and navigation for some of the top fortune 100 and 500
+	ecommerce companies.</p>
+	</div>
+  </div>
+</div>
+
+<div class="row">
+ <div class="col-xs-12 col-sm-6 col-md-8">
+	<div class="profile-skills">
+	<h2>Skills</h2>
+	<h3>Web Development Stack</h3>
+	<p>Python, Jinja2, Flask, Django, Tornado, MongoDB,
+	SQLite, PostgreSQL, MySQL, SQLAlchemy, HTML, CSS,
+	Javascript, JQuery, AngularJS, BootStrap, Lettuce,
+	Splinter, Heroku, Linux</p>
+	<h3>Other Languages/Skills</h3>
+	<p>Java, PHP, Perl, Bash, Batch, Windows, OSX, Endeca,
+	E-Commerce, Production Implementations, Technical Support,
+	Project Management, Agile/Scrum, Ruby, Rails, Capybera</p>
+	</div>
+  </div>
+</div>
+</div>
+</body>
+{% endblock %}

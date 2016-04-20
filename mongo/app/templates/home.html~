@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+{% block body %}
+{% if registered %}
+<span id="welcome"><h3>Account Successfully Created!</h3></span>
+{% endif %}
+
+{% if login_status and username %}
+<span id="welcome"><h3>Hi {{ username }}!!</h3></span>
+{% endif %}
+{% endblock %}

@@ -2,9 +2,9 @@
 {% block body %}
 <ul>
 {% for row in feed %}
-<li>{{ row['CATALOGNAME'] }}</li>
-<li>{{ row['UPC'] }}</li>
-<li>{{ row['BUYURL'] }}</li>
+<li>{{ row['NAME'] }}</li>
+<img src="{{ row['IMAGEURL'] }}"></li>
+<li>{{ row['DESCRIPTION'] }}</li>
 {% endfor %}
 </ul>
 {% endblock %}

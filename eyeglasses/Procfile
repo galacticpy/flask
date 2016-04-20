@@ -1,1 +1,1 @@
-web: gunicorn homer:app --log-file=-
+web: gunicorn eyeglasses:app --log-file=-

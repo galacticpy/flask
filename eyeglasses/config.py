@@ -1,2 +1,2 @@
 WTF_CSRF_ENABLED = True
-SECRET_KEY = 'templateunlock'
+SECRET_KEY = 'eyeglassesunlock'

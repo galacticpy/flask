@@ -1,3 +1,3 @@
 #starts Database
-from template import init_db
+from eyeglasses import init_db
 init_db()

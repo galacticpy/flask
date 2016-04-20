@@ -40,8 +40,8 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css
 				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid }); //Enable to test client issues
 				</script>
 				<br>
-				<a href="http://machoman.herokuapp.com/review.html?pr_page_id={{page_id[item]}}">Write A Review</a>
-				<!--<a href="http://localhost:5000/review.html?pr_page_id={{page_id[item]}}">Write A Review</a>--><!--Stage-->
+				<!--<a href="http://machoman.herokuapp.com/review.html?pr_page_id={{page_id[item]}}">Write A Review</a>-->
+				<a href="http://localhost:5000/review.html?pr_page_id={{page_id[item]}}">Write A Review</a><!--Stage-->
 			</div>
 			<br>		
 			<span><img src="{{ image_url[item] }}" width="200px" height="200px"/>
@@ -49,6 +49,8 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/47420/642090/css/express.css
 			
 			<p>{{ description[item] }}</p>
 		</div>
+
+		
 		<div class="details">
 		<ul>
 			<li>name: {{ name[item] }}</li> 

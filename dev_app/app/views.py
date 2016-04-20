@@ -64,6 +64,9 @@ def product(pageid):
 def war():
     return render_template('review.html')
 
+@app.route('/clientstatic')
+def clientstatic():
+    return render_template('clientstatic.html')
 
 @app.route('/getclient', methods=['GET', 'POST'])
 def getclient():

@@ -6,5 +6,5 @@ print 'Adding Files to Git'
 os.system('git add .')
 print 'Commiting Files to Git'
 os.system('git commit -m'+comment[1])
-print 'Pushing Files to Heroku'
+print 'Pushing Files to Git'
 os.system('git push https://github.com/galacticpy/flask.git master')

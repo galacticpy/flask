@@ -1,0 +1,45 @@
+{% extends "index.html" %}
+{% block body %}
+
+{% if login_status %}
+<script type="text/javascript" src="static/pwr/engine/js/full.js"></script>
+
+	<div class="product">
+		<div class="basic_info">
+			
+			<div class="pr_snippet_category">
+				<script type="text/javascript">
+				var pr_snippet_min_reviews=1;
+				var pageid = '224053'
+				var pr_zip_location="static"; //Enable to test client issues
+				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid }); //Enable to test client issues
+				</script>
+			</div>
+		
+
+		<div class="pr_review_summary">
+			<script type="text/javascript">
+			var pageid = '224053'
+			POWERREVIEWS.display.engine(document, { pr_page_id : pageid });
+			</script>
+		</div>
+	</div>
+	</div>
+{% else %}
+<Center><h1>Login</h1></center>
+<div class="container">
+<form action="{{ url_for('index') }}" method=post>
+  <fieldset class="form-group">
+    <label for="username">Username</label>
+    <input type="text" class="form-control" name="username" id="username" placeholder="Enter Username" required="required">
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="password">Password</label>
+    <input type="password" class="form-control" name="password" id="password" placeholder="Enter Password" required="required">
+  </fieldset>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
+
+{% endif %}
+{% endblock %}

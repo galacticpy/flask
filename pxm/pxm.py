@@ -9,11 +9,7 @@ import csv
 from contextlib import closing
 from flask import Flask, request, session, g, redirect, url_for, \
      abort, render_template, flash
-
-from werkzeug.security import generate_password_hash, \
-     check_password_hash
      
-from werkzeug import secure_filename
 from pymongo import MongoClient
 
 DEBUG = True
@@ -41,9 +37,9 @@ def index():
 def aboutme():
     return render_template('aboutme.html')
 
-@app.route('/projects')
-def projects():
-    return render_template('projects.html')
+@app.route('/codeofday')
+def codeofday():
+    return render_template('codeofday.html')
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=8080)

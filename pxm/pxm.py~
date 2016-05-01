@@ -9,17 +9,9 @@ import csv
 from contextlib import closing
 from flask import Flask, request, session, g, redirect, url_for, \
      abort, render_template, flash
-
-from werkzeug.security import generate_password_hash, \
-     check_password_hash
      
-from werkzeug import secure_filename
 from pymongo import MongoClient
 
-import kivy
-kivy.require('1.9.1') 
-from kivy.app import App
-from cefpython3 import cefpython
 DEBUG = True
 
 #Local DB
@@ -31,23 +23,23 @@ projects_db = db.projects
 comments_db = db.comments
 #Drop Database Table
 #client.drop_database('mysite')
-class testapp(App):
-	# create our little application :)
-	app = Flask(__name__, template_folder='app/templates', static_folder='app/static')
-	app.config.from_object(__name__)
-	app.config.from_envvar('FLASKR_SETTINGS', silent=True)
 
-	@app.route('/')
-	def index(self):
-	    return CefBrowser('home.html')
+# create our little application :)
+app = Flask(__name__, template_folder='app/templates', static_folder='app/static')
+app.config.from_object(__name__)
+app.config.from_envvar('FLASKR_SETTINGS', silent=True)
 
-	@app.route('/aboutme')
-	def aboutme(self):
-	    return CefBrowser('aboutme.html')
+@app.route('/')
+def index():
+    return render_template('home.html')
 
-	@app.route('/projects')
-	def projects(self):
-	    return CefBrowser('projects.html')
+@app.route('/aboutme')
+def aboutme():
+    return render_template('aboutme.html')
+
+@app.route('/codeofday')
+def codeofday():
+    return render_template('codeofday.html')
 
 if __name__ == '__main__':
-    testapp().run()
+    app.run(host='0.0.0.0', port=8080)

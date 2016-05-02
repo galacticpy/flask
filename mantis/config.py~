@@ -1,3 +1,7 @@
 WTF_CSRF_ENABLED = True
-SECRET_KEY = 'mongounlock'
-DEBUG = True
+<<<<<<< HEAD
+SECRET_KEY = 'mantisunlock'
+
+=======
+SECRET_KEY = 'you-will-never-guess'
+>>>>>>> 75c90d717280db1411b9782aa680e56edc4bf6ce

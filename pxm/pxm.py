@@ -16,17 +16,20 @@ from werkzeug.security import generate_password_hash, \
 from werkzeug import secure_filename
 from pymongo import MongoClient
 
-DEBUG = True
+#Heroku
+MONGOLAB_URI = 'mongodb://heroku_500fpzjz:4jskk7nh6td45e8n4juhpnlfit@ds011912.mlab.com:11912/heroku_500fpzjz'
+client = MongoClient(MONGOLAB_URI)
 
 #Local DB
-client = MongoClient()
-#Database Table Called Gorilla
-db = client.mysite
+#client = MongoClient()
+#Database
+db = client.heroku_500fpzjz
+
 #Database Collection
 projects_db = db.projects
 comments_db = db.comments
-#Drop Database Table
-#client.drop_database('mysite')
+#Drop Database Tabless
+#client.drop_database('pxm')
 
 # create our little application :)
 app = Flask(__name__, template_folder='app/templates', static_folder='app/static')
@@ -49,6 +52,21 @@ def codeofday():
 def projects():
     return render_template('projects.html')
 
+@app.route('/contact', methods=['GET', 'POST'])
+def contact():
+    if request.method == 'POST':
+        name = request.form['contact-name']
+        email = request.form['contact-email']
+        comment = request.form['contact-comment']
+        comments_db.insert_one(
+            {
+                "name": name,
+                "email": email,
+                "comment": comment,
+            }
+        )       
+        return render_template('contact.html',name=name,email=email,comment=comment)
+    return render_template('contact.html')
 
 if __name__ == '__main__':
     app.run()

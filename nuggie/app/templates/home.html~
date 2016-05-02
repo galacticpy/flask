@@ -1,0 +1,141 @@
+{% extends "index.html" %}
+{% block body %}
+<div class="container">
+    <div class='website-name'>
+        <center><h1>Contact Us</h1></center>
+    </div>
+    <form>
+      <fieldset class="form-group">
+        <label for="nug-title">Title</label>
+        <input type="text" class="form-control" id="nug-title" placeholder="Descriptive Title">
+        <small class="text-muted">Enter a descriptive title for the item.</small>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-name">Name</label>
+        <input type="text" class="form-control" id="nug-name" placeholder="Name of Item">
+        <small class="text-muted">Enter the name of the itme.</small>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-brand">Brand</label>
+        <input type="text" class="form-control" id="nug-brand" placeholder="Brand of Item">
+        <small class="text-muted">Enter the brand name for the item.</small>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-price">Price</label>
+        <input type="text" class="form-control" id="nug-price" placeholder="Sales Price">
+        <small class="text-muted">Enter how much you would like to sell item for.</small>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-purPrice">Purchased Price</label>
+        <input type="text" class="form-control" id="nug-purPrice" placeholder="Original cost of Item">
+        <small class="text-muted">Enter how much the item originall cost.</small>
+      </fieldset>
+    
+      <fieldset class="form-group">
+        <label for="nug-color">Select Color</label>
+        <select class="form-control" id="nug-color">
+          <option>White</option>
+          <option>Black</option>
+          <option>Red</option>
+          <option>Blue</option>
+          <option>Green</option>
+          <option>Brown</option>
+          <option>Orange</option>
+          <option>Yellow</option>
+        </select>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-size">Select Size</label>
+        <select class="form-control" id="nug-size">
+          <option>Small</option>
+          <option>Medium</option>
+          <option>Large</option>
+          <option>X-Large</option>
+        </select>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-waistSize">Waist Size</label>
+        <select class="form-control" id="nug-waistSize">
+          <option>Size 0</option>
+          <option>Size 1</option>
+          <option>Size 2</option>
+          <option>Size 3</option>
+          <option>Size 4</option>
+          <option>Size 5</option>
+          <option>Size 6</option>
+          <option>Size 7</option>
+        </select>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-shoeSize">Shoe Size</label>
+        <select class="form-control" id="nug-shoeSize">
+          <option>Size 5</option>
+          <option>Size 5.5</option>
+          <option>Size 6</option>
+          <option>Size 6.5</option>
+          <option>Size 7</option>
+          <option>Size 7.5</option>
+          <option>Size 8</option>
+          <option>Size 8.5</option>
+        </select>
+      </fieldset>    <div class="radio">
+        <label>
+          <input type="radio" name="radioCondition" id="nug-poor" value="poor" checked>
+            Poor Condition
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="radioCondition" id="nug-ok" value="ok">
+          OK Condition
+        </label>
+      </div>
+        <div class="radio">
+        <label>
+          <input type="radio" name="radioCondition" id="nug-good" value="good" checked>
+            Good Condition
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="radioCondition" id="nug-excellent" value="excellent">
+          Excellent Condition
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="radioCondition" id="nug-new" value="new">
+          Brand New
+        </label>
+      </div>
+      <fieldset class="form-group">
+        <label for="nug-description">Description</label>
+        <textarea class="form-control" id="nug-description" rows="5" placeholder="Describe the item"></textarea>
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="nug-images">Upload Images</label>
+        <input type="file" class="form-control-file" id="nug-images">
+        <small class="text-muted">Upload images of product.</small>
+      </fieldset>
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" name="checkboxSite" id="nug-posh" value="posh">
+          Post to Posh
+        </label>
+      </div>
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" name="checkboxSite" id="nug-ebay" value="ebay">
+          Post to Ebay
+        </label>
+      </div>
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" name="checkboxSite" id="nug-etsy" value="etsy">
+          Post to Etsy
+        </label>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    </div>
+{% endblock %}

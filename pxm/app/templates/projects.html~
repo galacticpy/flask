@@ -1,0 +1,4 @@
+{% extends "index.html" %}
+{% block body %}
+<span id="home-company">Coming Soon!</span>
+{% endblock %}

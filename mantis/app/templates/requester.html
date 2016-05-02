@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+{% block body %}
+{% if session.logged_in %}
+
+  <h2>Call off Shift</h2>
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+  <form action="{{ url_for('requester') }}" method=post class="form-inline">
+	{% if subbtn == 'Submit' %}
+		<div class="cancel_button" id="cancel" style="display:block">
+	  <button class="btn btn-danger" type=submit name="can_button" value="Cancel Request" >
+	  </div>
+	{% else %}
+	<div class="brigade_button" id="brgbutton" style="display:block">
+	  <input class="btn btn-primary" type="button" name="brigade" value="Request" onclick="document.getElementById('brgbutton').style.display='none';document.getElementById('req_brig').style.display='block';"/>
+	  </div>
+	  <div class="brigade" id="req_brig" style="display:none">
+    <dl>
+	  <dt>Date:
+	  <dd><input class="form-control" type=date name=brigade_date>
+      <dt>Start Time:
+      <dd><input class="form-control" type=time name=brigade_time>
+      <dt>End Time:
+      <dd><input class="form-control" type=time name=end_time>
+	  <div style="padding-top:10px">
+      <dd><button class="btn btn-success" type=submit name="sub_butt" value="Submit">
+    </div>
+	</dl>
+	  	  </div>
+	{% endif %}  
+  </form>
+  {% endif %}
+
+{% endblock %}
+

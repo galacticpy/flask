@@ -1,0 +1,26 @@
+html {
+    /*background-color:#d1d1e0;*/
+}
+#logreg {
+    text-align:center;
+}
+
+#nav-logout {
+    float:right;
+}
+#nav-profile {
+    float:right;
+}
+.nav {
+    padding-left:0;
+    width:100%;
+}
+.nav li {
+   display:inline;
+   padding-right:25px;
+}
+#image img {
+    height:150px;
+    width:100%;
+    
+}

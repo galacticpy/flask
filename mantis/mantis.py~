@@ -19,13 +19,15 @@ from pymongo import MongoClient
 DEBUG = True
 
 #Heroku
-#MONGOLAB_URI = "mongodb://dkenned23:2308745dk@ds015508.mlab.com:15508/heroku_l74kqc7r"
-#client = MongoClient(MONGOLAB_URI)
+MONGOLAB_URI = "mongodb://heroku_hnjxvznr:qgh05dtr57sbbc7p0tl9mfvqlg@ds011902.mlab.com:11902/heroku_hnjxvznr
+"
+client = MongoClient(MONGOLAB_URI)
 
 #Local DB
-client = MongoClient()
+#client = MongoClient()
 #Database Table Called Gorilla
-db = client.gorilla
+#db = client.gorilla
+db = client.heroku_hnjxvznr
 #Database Collection
 login_db = db.db_login
 account_db = db.db_account

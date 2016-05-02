@@ -1,0 +1,106 @@
+<!doctype html>
+<title>Project Mantis</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/bootstrap.css') }}">
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<div class=page>
+	{% if session.logged_in %}
+  <nav class="navbar navbar-default navbar-static-top">
+  <div class="container">
+	<ul class="nav navbar-nav">
+    <li id=nav-home><a href="{{ url_for('show_requests') }}">Home</a></li>
+	<li id=nav-request><a href="{{ url_for('brigade') }}">Brigade</a></li>
+	<li id=nav-profile><a href="{{ url_for('profile') }}">Profile</a></li>
+	<li id=nav-logout><a href="{{ url_for('logout') }}">Log Out</a></li>
+    </ul> 
+  </div>
+</nav>
+<div id="birgade_request">
+    <form action="{{ url_for('brigade') }}" method=post class="form-inline">
+	<div class="brigade_button" id="brgbutton" style="display:block">
+	  <input class="btn btn-primary" type="button" name="brigade" value="Request" onclick="document.getElementById('brgbutton').style.display='none';document.getElementById('req_brig').style.display='block';"/>
+	  </div>
+	  <div class="brigade" id="req_brig" style="display:none">
+    <dl>
+	  <dt>Date:
+	  <dd><input class="form-control" type=date name=brigade_date>
+      <dt>Start Time:
+      <dd><input class="form-control" type=time name=brigade_time>
+      <dt>End Time:
+      <dd><input class="form-control" type=time name=end_time>
+	  <div style="padding-top:10px">
+      <dd><button class="btn btn-success" type=submit name="sub_butt" value="Submit">Submit</button>
+    </div>
+	</dl>
+	  	  </div>
+  </form>
+</div>
+
+  {% endif %}
+{% if not session.logged_in %}
+<script>
+$(document).ready(function(){
+	$('#nav-login').click(function (){
+		$('div.login').show();
+		$('div.register').hide();
+		$('#nav-login').hide();
+		$('#nav-register').show();
+	});
+	$('#nav-register').click(function (){
+		$('div.login').hide();
+		$('div.register').show();
+		$('#nav-login').show();
+		$('#nav-register').hide();
+});
+});
+</script>
+
+<div id="logreg">
+<div class=login style="display:block">
+<h1>Login</h1>
+  <form action="{{ url_for('login') }}" method=post class="form-inline">
+    <dl>
+      <dt>Username:
+      <dd><input class="form-control" type=text name=username>
+      <dt>Password:
+      <dd><input class="form-control" type=password name=password>
+      <dd style="padding-top:10px"><input class="btn btn-primary" type=submit value=Login>
+    </dl>
+  </form>
+</div>
+<div class=register style="display:none">
+  <h1>Register</h1>
+  <form action="{{ url_for('register') }}" method=post class="form-inline">
+	Choose:
+	<div class="radiobtns" style="padding-bottom:10px">
+	<input class="radio-inline" type="radio" name="position" value="manager" checked onclick="document.getElementById('posdiv').style.display='none'"> Manager
+	<input class="radio-inline" type="radio" name="position" value="employee" onclick="document.getElementById('posdiv').style.display='block'"> Employee
+	</div>
+  <dl>
+	<div id="posdiv" style="display:none">
+	<dt>Establishment ID:
+	<dd><input class="form-control" type=text name=est_id>
+	</div>
+	<dt>First Name:
+	<dd><input class="form-control" type=text name=first_name>
+	<dt>Last Name:
+	<dd><input class="form-control" type=text name=last_name>
+	<dt>Email:
+	<dd><input class="form-control" type=email name=email_addr>
+	<dt>Username:
+	<dd><input class="form-control" type=text name=username>
+	<dt>Password:
+	<dd><input class="form-control" type=password name=password>
+	<dt>Confirm Password:
+	<dd><input class="form-control" type=password name=password_confirm>
+	<dd style="padding-top:10px"><input class="btn btn-primary" type=submit value=Register>
+  </dl>
+</form>
+</div>
+    <a id=nav-login href=# style="display:none">Login</a>
+    <a id=nav-register href=#>Register</a>
+</div>
+{% endif %}
+  {% block body %}
+  {% endblock %}

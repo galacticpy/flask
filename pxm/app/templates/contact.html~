@@ -1,0 +1,41 @@
+{% extends "index.html" %}
+{% block body %}
+<body id="contact">
+
+{% if name %}
+<h2>Thank You {{ name }}!</h2>
+<p>An email has been submitted to the PyBy team and you will receieve
+follow-up email to {{ email }}.
+
+{% if '?' in comment %}
+<h3>Your Question</h3>
+<p>{{ comment }}
+{% else %}
+<h3>Your Comment</h3>
+<p>{{ comment }}
+{% endif %}
+
+{% else %}
+<div class="container" style="width:50%">
+    <div class='website-name'>
+        <center><h1>Contact PyBy</h1></center>
+    </div>
+    <form action="{{ url_for('contact') }}" method=post>
+      <fieldset class="form-group">
+        <label for="contact-name">Full Name</label>
+        <input type="text" class="form-control" name="contact-name" id="contact-name" placeholder="Full Name">
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="contact-email">Email</label>
+        <input type="text" class="form-control" name="contact-email" id="contact-email" placeholder="Email Address">
+      </fieldset>
+      <fieldset class="form-group">
+        <label for="contact-comment">Inquiries</label>
+        <textarea type="text" class="form-control" name="contact-comment" id="contact-comment" placeholder="Please send us your questions and comments" rows="5"></textarea>
+      </fieldset>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    </div>
+{% endif %}
+</body>
+{% endblock %}

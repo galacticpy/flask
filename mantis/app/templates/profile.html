@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block body %}
+{% if session.logged_in %}
+
+  <h2>Register Establishment</h2>
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }}{% endif %}
+  <form action="{{ url_for('profile') }}" method=post class="form-inline">
+    <dl>
+      <dt>Company:
+      <dd><input class="form-control" type=text name=est_company>
+      <dt>Address:
+      <dd><input class="form-control" type=text name=est_address>
+      <dt>City:
+      <dd><input class="form-control" type=text name=est_city>
+      <dt>State:
+      <dd><input class="form-control" type=text name=est_state>
+      <dt>Zip Code:
+      <dd><input class="form-control" type=text name=est_zip>
+    </dl>
+  	  <button class="btn btn-primary" name=regest type=submit value="1">Register</button>
+  </form>
+  <form action="{{ url_for('profile') }}" method=post class="form-inline">
+  <h2>Select Request Time</h2>
+    <dl>
+	  <dt>Internal
+	  <dd><input type="radio" name="internal" value="1" checked> ON
+	  <input type="radio" name="internal" value="0"> OFF
+	  <dt>Network
+	  <dd><input type="radio" name="network" value="1"  
+	  onclick="document.getElementById('network-opt').style.display='block'"/> ON
+	  <input type="radio" name="network" value="0" onclick="document.getElementById('network-opt').style.display='none'" checked> OFF
+	  <div class="req-percent" id="network-opt" style="display:none">
+	  <select class="form-control">
+		  <option value=".25">25%</option>
+		  <option value=".50">50%</option>
+		  <option value=".75">75%</option>
+		  <option value="1">Entire Network</option>
+		</select>
+	  </div>
+	  <dt>Brigade
+	  <dd><input type="radio" name="brigade" value="1" 
+	  onclick="document.getElementById('brigade-opt').style.display='block'"/> ON
+	  <input type="radio" name="brigade" value="0" onclick="document.getElementById('brigade-opt').style.display='none'" checked> OFF
+	  <div class="radio" id="brigade-opt" style="display:none">
+	  <select class="form-control">
+		  <option value=".25">25%</option>
+		  <option value=".50">50%</option>
+		  <option value=".75">75%</option>
+		  <option value="1">Entire Brigade</option>
+		</select>
+	  </div>
+    </dl>
+	<button class="btn btn-primary" name=save type=submit value="1">Save</button>
+  </form>
+    <form action="{{ url_for('profile') }}" method=post class="form-inline">
+
+	<h2>Upload Employee Payroll</h2>
+	<span class="btn btn-file">
+      <input type=file name=file>
+	  </span>
+         <button class="btn btn-primary" type=submit name=upld value="1">Upload</button>
+
+  </form>
+ 
+  {% endif %}
+  
+{% endblock %}

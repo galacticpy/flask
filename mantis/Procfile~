@@ -1,1 +1,5 @@
-web: gunicorn homer:app --log-file=-
+<<<<<<< HEAD
+web: gunicorn mantis:app --log-file=-
+=======
+web: gunicorn flanders:app --log-file=-
+>>>>>>> 75c90d717280db1411b9782aa680e56edc4bf6ce

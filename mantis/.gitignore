@@ -1,0 +1,5 @@
+.buildozer
+waste/
+app/waste/
+app/templates/waste/
+*.pyc

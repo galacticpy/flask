@@ -26,7 +26,7 @@ background-size: cover;
 }
 
 #about-me {
-background: linear-gradient(to bottom, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%),url(../images/madison_dan.jpg) no-repeat center center fixed; 
+background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%),url(../images/madison_dan.jpg) no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;

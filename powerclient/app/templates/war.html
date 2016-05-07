@@ -2,13 +2,12 @@
 {% block body %}
 
 {% if login_status and account == 'admin' or account == 'superadmin' %}
-<center><h2>Merchant Details</h2>
+<center><h2>Write a Review</h2>
 <div class="review-form">
-<form action="{{ url_for('review') }}" method=post>
+<form action="{{ url_for('war') }}" method=post>
 <fieldset class="form-group">
   <label form="merchant_group_id">Merchant Group ID</label>
-  <input type="text" class="form-control" name="merchant_group_id" id="merchant_group_id"
-         placeholder="Enter Merchant Group ID" required="required" value={% if merchant_group_id != 'null' %} '{{ merchant_group_id }}' {% endif %}>
+  <input type="text" class="form-control" name="merchant_group_id" id="merchant_group_id" placeholder="Enter Merchant Group ID" required="required">
 <fieldset class="form-group">
   <label form="page_id">Page ID</label>
   <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
@@ -19,9 +18,9 @@
 </center>
 
 {% elif login_status and account == 'basic' %}
-<center><h2>{{ username }}</h2>
+<center><h2>Write a Review</h2>
 <div class="review-form">
-<form action="{{ url_for('review') }}" method=post>
+<form action="{{ url_for('war') }}" method=post>
 <fieldset class="form-group">
   <label form="page_id">Page ID</label>
   <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
@@ -49,21 +48,23 @@
 </center>
 {% endif %}
 
-{% if login_status %}
+{% if login_status and page_id != 'null' %}
+
 <center>
-<div class="tiles">
-<a href="/review"><button type="button">Review Preview</button></a>
-<a href="/war"><button type="button">Write a Review</button></a>
-<a href="/standalone"><button type="button">Standalone</button></a>
-{% if login_status and account == 'admin' or account == 'superadmin' %}
-<a href="/apitester"><button type="button">Api Tester</button></a>
-<a href="/admin"><button type="button">Admin</button></a>
-{% endif %}
-{% if login_status and account == 'superadmin' %}
-<a href="/superadmin"><button type="button">Super Admin</button></a>
-{% endif %}
-</div>
+<script type="text/javascript">
+
+
+var pr_merchant_group_id='{{ merchant_group_id }}';
+var pr_site_id=1;
+var pr_page_id='{{ page_id }}'; 
+var pr_page_id_variant='';
+var pr_merchant_user_email='';
+var pr_style_sheet = 'static/css/styles.css'
+
+</script>
+<script type="text/javascript" language="javascript" src="https://cdn.powerreviews.com/repos/{{ merchant_group_id }}/pr/pwr/engine/js/appLaunch.js"></script>
 </center>
+
 {% endif %}
-<iframe src="http://ui.powerreviews.com/stable/standalone.html?pr_merchant_id=856667&pr_page_id=00009985"></iframe>
+
 {% endblock %}

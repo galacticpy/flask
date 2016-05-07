@@ -5,19 +5,37 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <link rel= "stylesheet" type= "text/css" href="static/css/styles.css">
+        <link rel="icon" type="image/x-icon" href="static/images/favicon.ico" />
         <title>Power Client</title>
     </head>
     <body>
         <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
                 <ul class="nav navbar-nav navbar-left">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/superadmin">Super Admin</a></li>
-                    {% if login_status and admin %}
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    {% if login_status %}
+                    <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    Menu <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">                   
+                    <li><a href="/review">Review Preview</a></li>
+                    <li><a href="/war">Write a Review</a></li>
+                    <li><a href="/standalone">Standalone</a></li>
+                    {% if login_status and account == 'admin' or account == 'superadmin' %}
+                    <li><a href="/apitester">Api Tester</a></li>
                     <li><a href="/admin">Admin</a></li>
                     {% endif %}
-
+                    {% if login_status and account == 'superadmin' %}
+                    <li><a href="/superadmin">Super Admin</a></li>
+                    {% endif %}
+                    <li><a href="/logout">Logout</a></li>
+                    </ul>
+                    {% endif %}
                 </ul>
-
+        </div>
         </nav>
         {% block body %}
         {% endblock %}

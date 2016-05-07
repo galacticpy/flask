@@ -1,0 +1,45 @@
+{% extends "index.html" %}
+{% block body %}
+{% if login_status and account == 'admin' or account == 'superadmin' %}
+<center>
+<h2>Api Tester</h2>
+
+<ul style="list-style:none; padding-left:5px">
+{% for value in response %}
+<li>
+{% if value == 'response_code' %}
+{% if response[value] == 200 %}
+<span style="color:green">
+{% else %}
+<span style="color:red">
+{% endif %}
+{% endif %}
+{{ value.upper() }}:
+{{ response[value] }}
+</span></li>
+{% endfor %}
+</ul>
+
+<div class="container">
+<form action="{{ url_for('apitester') }}" method=post>
+  <fieldset class="form-group">
+    <label for="pr-key">API Key</label>
+    <input type="text" class="form-control" name="pr-key" id="pr-key" placeholder="Enter Client API Key" required="required">
+    <small class="text-muted">Enter the API Key for the merchant group.</small>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="pr-pageid">Page ID</label>
+    <input type="text" class="form-control" name="pr-pageid" id="pr-pageid" placeholder="Enter Page ID" required="required">
+    <small class="text-muted">Enter the pr_page_id to write a review.</small>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="pr-merchant">Merchant ID</label>
+    <input type="text" class="form-control" name="pr-merchant" id="pr-merchant" placeholder="Enter the Merchant ID" required="required">
+    <small class="text-muted">Enter the pr_merchant_id to write a review.</small>
+  </fieldset>
+  <button type="submit" class="btn btn-success">Test</button>
+</form>
+</div>
+</center>
+{% endif %}
+{% endblock %}

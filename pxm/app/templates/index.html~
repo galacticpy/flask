@@ -14,7 +14,7 @@
 		        <li><a href="projects">Projects</a></li>
 		    </ul>
 		    <ul class="nav navbar-nav navbar-right">
-		        <li><a href="aboutme">Meet the Team</a></li>
+		        <li><a href="aboutme">About Me</a></li>
 		        <li><a href="codeofday">Code of the Day</a></li>
 		    </ul> 
         </div>

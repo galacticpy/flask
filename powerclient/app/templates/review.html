@@ -1,0 +1,115 @@
+{% extends "index.html" %}
+{% block body %}
+
+{% if login_status and account == 'admin' or account == 'superadmin'%}
+{% if valid_url %}
+<center><h2>Review Snippet & Display Preview</h2>
+<div class="review-form">
+<form action="{{ url_for('review') }}" method=post>
+<fieldset class="form-group">
+  <label form="merchant_group_id">Merchant Group ID</label>
+  <input type="text" class="form-control" name="merchant_group_id" id="merchant_group_id"
+		 placeholder="Enter Merchant Group ID" required="required" value={% if merchant_group_id != 'null' %} '{{ merchant_group_id }}' {% endif %}>
+<fieldset class="form-group">
+  <label form="page_id">Page ID</label>
+  <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
+</fieldset>
+<button type="submit" class="btn btn-success">Update</button>
+</form>
+</div>
+</center>
+{% endif %}
+{% elif login_status and account == 'basic' %}
+{% if valid_url %}
+<div class="review-form">
+<form action="{{ url_for('review') }}" method=post>
+<fieldset class="form-group">
+  <label form="page_id">Page ID</label>
+  <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
+</fieldset>
+<button type="submit" class="btn btn-success">Update</button>
+</form>
+</div>
+</center>
+{% endif %}
+{% else %}
+<Center><h2>Login</h2>
+<div class="container">
+<form action="{{ url_for('index') }}" method=post>
+  <fieldset class="form-group">
+    <label for="username">Username</label>
+    <input type="text" class="form-control" name="username" id="username" placeholder="Enter Username" required="required">
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="password">Password</label>
+    <input type="password" class="form-control" name="password" id="password" placeholder="Enter Password" required="required">
+  </fieldset>
+  <center><button type="submit" class="btn btn-success">Login</button></center>
+</form>
+</div>
+</center>
+{% endif %}
+
+{% if login_status and valid_url %}
+{% if page_id != 'null' %}
+<div id="page-id" style="padding-bottom:10px">
+<h3>Reviews for Page ID: {{ page_id }}</h3>
+</div>
+{% endif %}
+
+<script type="text/javascript" src="{{ review_url }}"></script>
+
+	<div class="product">
+		<div class="basic_info">
+{% if page_id != 'null' %}
+<h4>Review Snippet</h4>
+{% endif %}
+			<div class="pr_snippet_category" style="padding-bottom: 20px">
+			  {% if client_url %}
+				<script type="text/javascript">
+				var pr_snippet_min_reviews=1;
+				var pr_zip_location = "{{ zip_location }}"		
+				var pageid = "{{ page_id }}";
+				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
+				</script>
+			  {% else %}
+				<script type="text/javascript">
+				var pr_snippet_min_reviews=1;
+				var pageid = "{{ page_id }}";
+				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid });
+				</script>
+				{% endif %}
+			</div>
+		
+{% if page_id != 'null' %}
+<h4>Review Display</h4>
+{% endif %}
+		<div class="pr_review_summary">
+			<script type="text/javascript">
+			var pageid = "{{ page_id }}"
+			POWERREVIEWS.display.engine(document, { pr_page_id : pageid });
+			</script>
+		</div>
+	</div>
+	</div>
+{% endif %}
+{% if login_status and not valid_url %}
+<center><h2>Couldn't Populate Review Data</h2>
+<div class="review-form">
+<form action="{{ url_for('review') }}" method=post>
+<fieldset class="form-group">
+  <label form="client_url">full.js Location</label>
+  <input type="text" class="form-control" name="client_url" id="client_url" placeholder="Enter Client full.js URL" required="required">
+</fieldset>
+<fieldset class="form-group">
+  <label form="zip_location">Zip Location</label>
+  <input type="text" class="form-control" name="zip_location" id="zip_location" placeholder="Enter Client Zip Location" required="required">
+</fieldset>
+<button type="submit" class="btn btn-success">Update</button>
+</form>
+</div>
+</center>
+
+{% endif %}
+
+{% endblock %}

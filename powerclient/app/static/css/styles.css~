@@ -2,10 +2,6 @@ html {
   height: 100%;
 }
 
-.container {
-    width: 100%;
-}
-
 html body
 {
 background: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 100%),url(../images/pr2.jpg) no-repeat center center fixed; 
@@ -37,9 +33,11 @@ label {
   color:white;
 }
 
-.form-control {
-  width:20%;
+.container {
+    width: 100%;
 }
+
+
 
 .tiles {
   width: 60%;
@@ -71,7 +69,7 @@ opacity: 0.95;
   text-decoration: none;
 }
 
-.iframe-war {
+.iframe {
 position: relative;
 padding-bottom: 65.25%;
 padding-top: 30px;
@@ -80,7 +78,7 @@ overflow: auto;
 -webkit-overflow-scrolling:touch; //<<--- THIS IS THE KEY 
 border: solid black 1px;
 } 
-.iframe-war iframe {
+.iframe iframe {
 position: absolute;
 top: 0;
 left: 0;
@@ -90,5 +88,9 @@ height: 100%;
 
 .navbar-inverse {
     margin-bottom: 0px;
+}
+
+.enter-site .container .form-control {
+  width:30%;
 }
 

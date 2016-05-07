@@ -1,32 +1,38 @@
 {% extends "index.html" %}
 {% block body %}
 
-{% if login_status %}
-<script type="text/javascript" src="static/pwr/engine/js/full.js"></script>
+{% if login_status and account == 'admin' or account == 'superadmin' %}
+<center><h2>Merchant Details</h2>
+<div class="review-form">
+<form action="{{ url_for('review') }}" method=post>
+<fieldset class="form-group">
+  <label form="merchant_group_id">Merchant Group ID</label>
+  <input type="text" class="form-control" name="merchant_group_id" id="merchant_group_id"
+         placeholder="Enter Merchant Group ID" required="required" value={% if merchant_group_id != 'null' %} '{{ merchant_group_id }}' {% endif %}>
+<fieldset class="form-group">
+  <label form="page_id">Page ID</label>
+  <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
+</fieldset>
+<button type="submit" class="btn btn-success">Update</button>
+</form>
+</div>
+</center>
 
-	<div class="product">
-		<div class="basic_info">
-			
-			<div class="pr_snippet_category">
-				<script type="text/javascript">
-				var pr_snippet_min_reviews=1;
-				var pageid = '224053'
-				var pr_zip_location="static"; //Enable to test client issues
-				POWERREVIEWS.display.snippet(document, { pr_page_id : pageid }); //Enable to test client issues
-				</script>
-			</div>
-		
+{% elif login_status and account == 'basic' %}
+<center><h2>{{ username }}</h2>
+<div class="review-form">
+<form action="{{ url_for('review') }}" method=post>
+<fieldset class="form-group">
+  <label form="page_id">Page ID</label>
+  <input type="text" class="form-control" name="page_id" id="page_id" placeholder="Enter Page ID" required="required">
+</fieldset>
+<button type="submit" class="btn btn-success">Update</button>
+</form>
+</div>
+</center>
 
-		<div class="pr_review_summary">
-			<script type="text/javascript">
-			var pageid = '224053'
-			POWERREVIEWS.display.engine(document, { pr_page_id : pageid });
-			</script>
-		</div>
-	</div>
-	</div>
 {% else %}
-<Center><h1>Login</h1></center>
+<Center><h2>Login</h2>
 <div class="container">
 <form action="{{ url_for('index') }}" method=post>
   <fieldset class="form-group">
@@ -37,9 +43,27 @@
     <label for="password">Password</label>
     <input type="password" class="form-control" name="password" id="password" placeholder="Enter Password" required="required">
   </fieldset>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <center><button type="submit" class="btn btn-success">Login</button></center>
 </form>
 </div>
-
+</center>
 {% endif %}
+
+{% if login_status %}
+<center>
+<div class="tiles">
+<a href="/review"><button type="button">Review Preview</button></a>
+<a href="/war"><button type="button">Write a Review</button></a>
+<a href="/standalone"><button type="button">Standalone</button></a>
+{% if login_status and account == 'admin' or account == 'superadmin' %}
+<a href="/apitester"><button type="button">Api Tester</button></a>
+<a href="/admin"><button type="button">Admin</button></a>
+{% endif %}
+{% if login_status and account == 'superadmin' %}
+<a href="/superadmin"><button type="button">Super Admin</button></a>
+{% endif %}
+</div>
+</center>
+{% endif %}
+
 {% endblock %}

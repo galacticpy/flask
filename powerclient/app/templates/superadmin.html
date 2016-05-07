@@ -1,6 +1,6 @@
 {% extends "index.html" %}
 {% block body %}
-<center><h1> Super Admin Login</h1></center>
+<center><h2> Add Admin User</h2>
 <div class="container">
 <form action="{{ url_for('superadmin') }}" method=post>
   <fieldset class="form-group">
@@ -11,8 +11,8 @@
     <label form="super-password">Password</label>
     <input type="password" class="form-control" name="super-password" id="super-password" placeholder="Enter Password" required="required">
   </fieldset>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <center><button type="submit" class="btn btn-success">Create</button></center>
 </form>
 </div>
-
+</center>
 {% endblock %}

@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+{% block body %}
+
+{% if login_status %}
+<div class="iframe-war">
+<iframe src="http://nadiadanielle.com/"></iframe>
+</div>
+
+{% endif %}
+
+{% endblock %}
